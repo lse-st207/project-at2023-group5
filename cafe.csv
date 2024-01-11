@@ -1,451 +1,452 @@
-Name,Types,Rating,User Ratings Total,Vicinity,lat,lng
-Take a Break,"['cafe', 'food', 'point_of_interest', 'establishment']",3.9,39.0,"244 Oxlow Lane, Dagenham",51.55102600000001,0.1547964
-Asda Dagenham Superstore,"['supermarket', 'gas_station', 'atm', 'cafe', 'pharmacy', 'clothing_store', 'finance', 'grocery_or_supermarket', 'health', 'food', 'point_of_interest', 'store', 'establishment']",3.6,817.0,"Merrielands Crescent, Dagenham",51.529501,0.139635
-Becontree Heath Leisure Centre,"['gym', 'cafe', 'school', 'health', 'food', 'point_of_interest', 'establishment']",3.6,823.0,"Althorne Way, Dagenham",51.5609465,0.1488995
-Harrow Lodge Leisure Centre,"['cafe', 'gym', 'school', 'general_contractor', 'health', 'food', 'point_of_interest', 'establishment']",3.8,391.0,"Hornchurch Road, Hornchurch",51.5632907,0.2089398
-Eastbrook Cafe & Restuarant,"['restaurant', 'meal_delivery', 'meal_takeaway', 'cafe', 'food', 'point_of_interest', 'establishment']",4.3,91.0,"264 Rainham Road South, Dagenham",51.5508213,0.1614183
-FIDDLERS CAFE,"['cafe', 'food', 'point_of_interest', 'establishment']",4.3,96.0,"686 Becontree Avenue, Dagenham",51.5603893,0.1472634
-bb's coffee & muffins,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",3.9,265.0,"25-26 The Mercury Shopping Centre, Romford",51.5793087,0.185747
-The Park Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.4,147.0,"King Georges Playing Fields Car Park, Eastern Avenue West, Romford",51.5845796,0.1679879
-Shell,"['gas_station', 'meal_delivery', 'car_wash', 'cafe', 'convenience_store', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",2.8,33.0,"Wood Lane, Dagenham",51.560415,0.1483637
-Morrisons Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.0,234.0,"Beacontree Heath, Dagenham",51.560107,0.148194
-bp,"['gas_station', 'atm', 'cafe', 'finance', 'restaurant', 'food', 'point_of_interest', 'establishment']",1.4,17.0,"Rush Green Road, Romford",51.5657886,0.1769919
-Costa Coffee,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.4,309.0,"East Business And Technical Park, Drive Thru, Drive Thru, Unit 1C, London, Yew Tree Avenue, Dagenham",51.54631500000001,0.167304
-Mel's Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.8,219.0,"Unit C8, Seedbed Centre, Essex",51.57008980000001,0.1839485
-Patisserie Valerie - Romford,"['cafe', 'bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",3.9,685.0,"Pod 3 The Brewery, Waterloo Road, Romford",51.57655380000001,0.179876
-Costa Coffee,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.1,479.0,"Unit 1 The Brewery, Romford",51.577044,0.179623
-Cafe Chateau,"['cafe', 'food', 'point_of_interest', 'establishment']",4.4,150.0,"7-9 North Street, Romford",51.5788527,0.1796929
-Café Shot,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.6,112.0,"78 Brentwood Road, Romford",51.57203699999999,0.1907102
-Costa Coffee,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.2,562.0,"Unit 2A, Goodmayes Retail Park, High Road, Romford",51.5677842,0.117121
-Tea Pot Cafe Romford,"['cafe', 'food', 'point_of_interest', 'establishment']",4.2,88.0,"43A Market Place, Romford",51.57987490000001,0.1822641
-Caffe Della Continental,"['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",4.0,235.0,"unit 36&37, Mercury Shopping Centre, Mercury Gardens, Romford",51.57929710000001,0.1852055
-bp,"['gas_station', 'atm', 'convenience_store', 'cafe', 'finance', 'store', 'food', 'point_of_interest', 'establishment']",3.9,49.0,"407 High Road, London",51.6008685,-0.1750689
-artsdepot,"['cafe', 'art_gallery', 'food', 'point_of_interest', 'establishment']",4.5,983.0,"5 Nether Street, London",51.61297440000001,-0.1768618
-"New River Sport, Tennis & Fitness","['cafe', 'gym', 'health', 'bar', 'food', 'point_of_interest', 'establishment']",3.9,151.0,"White Hart Lane, London",51.6046932,-0.09984350000000003
-Sable D'Or,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.1,206.0,"249 Muswell Hill Broadway, London",51.5916559,-0.1430828
-Costa Coffee,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.9,288.0,"1287 High Road, London",51.6309277,-0.1753933
-Costa Coffee,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.0,286.0,"62-64 High Road, London",51.58895769999999,-0.1637612
-Costa Coffee,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.1,314.0,"376 Muswell Hill Broadway, London",51.5914856,-0.1424424
-Costa Coffee,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.1,43.0,"Coppetts Centre, North Circular Road, London",51.607269,-0.157001
-Oak Caffe,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,482.0,"1 Oakleigh Road North, London",51.6299675,-0.174411
-Cafe Brunello's,"['cafe', 'food', 'point_of_interest', 'establishment']",4.7,198.0,"729 Green Lanes, London",51.6311784,-0.0963743
-Aroma Patisserie,"['bakery', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.6,440.0,"424-426 Green Lanes, London",51.62220569999999,-0.1050254
-Sunshine Garden Cafe,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,42.0,"41 East Barnet Road, Barnet",51.64990269999999,-0.171376
-Vero Caffe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.2,403.0,"16 Sussex Ring, London",51.61498559999999,-0.1909997
-Em's Coffee,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,370.0,"1336 High Road, London",51.6322231,-0.1752574
-Xpress Coffee,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.8,5.0,"Oakliegh Park Station,Platform, 1 Netherlands Road, Barnet",51.6377146,-0.1663405
-My Time Delicatessen,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.7,109.0,"375 Green Lanes, London",51.6194532,-0.1073493
-Cibo Bar Cafeteria,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,149.0,"28 Cannon Hill, London",51.6237631,-0.1227088
-The Cookie,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.7,43.0,"123 Bramley Road, London",51.6474255,-0.1321265
-Pots of Art,"['cafe', 'food', 'point_of_interest', 'establishment']",4.0,2.0,"Tudor Grove, Church Crescent, London",51.6261468,-0.163929
-Oak Hill Park Cafe,"['cafe', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,405.0,"Oak Hill Park Cafe, Parkside Gardens, Barnet",51.63460560000001,-0.1526013
-bp,"['gas_station', 'atm', 'cafe', 'car_wash', 'finance', 'point_of_interest', 'food', 'establishment']",2.6,62.0,"295-313 Bexley Road, Erith",51.47278499999999,0.1625922
-Costa Coffee,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.0,455.0,"Broadway Shopping Centre, Central Square, Bexleyheath",51.45598,0.145861
-Asda Living Dartford,"['home_goods_store', 'cafe', 'clothing_store', 'point_of_interest', 'food', 'store', 'establishment']",4.2,1240.0,"Unit 4, Prospect Place, Dartford",51.44789999999999,0.21552
-Village Cafe,"['cafe', 'point_of_interest', 'food', 'establishment']",4.5,115.0,"70 Bexley High Street, Bexley",51.44163959999999,0.1500741
-Munchies,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.5,196.0,"228 Bexley Road, Erith",51.4735257,0.162357
-Kenny's Cafe,"['cafe', 'point_of_interest', 'food', 'establishment']",4.5,84.0,"74 Crayford High Street, Dartford",51.453291,0.176789
-Koffi Pot,"['cafe', 'point_of_interest', 'food', 'establishment']",4.3,189.0,"107 Welling High Street, Welling",51.46250209999999,0.108359
-Mooboo Bexleyheath,"['cafe', 'point_of_interest', 'food', 'establishment']",4.5,71.0,"11, The Mall, Broadway Shopping Centre, Bexleyheath",51.4555653,0.1474154
-Caffè Nero,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.3,348.0,"115 Broadway, Bexleyheath",51.4565659,0.1441646
-Creams Cafe Bexleyheath,"['cafe', 'bakery', 'meal_takeaway', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",3.6,506.0,"143 Broadway, Bexleyheath",51.4568521,0.1420772
-Chinchins - Cafe Restaurant Bar,"['cafe', 'bar', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.7,456.0,"171 Broadway, London, Bexleyheath",51.4570398,0.1407846
-Vintage Lindy Lou,"['cafe', 'point_of_interest', 'food', 'establishment']",4.7,141.0,"The Willows, Waterside, Dartford",51.45218149999999,0.1791639
-Costa Coffee,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.3,171.0,"Unit 3, Next, TOWER RETAIL PARK, Crayford Road, Dartford",51.45104199999999,0.180797
-Shell,"['gas_station', 'cafe', 'meal_delivery', 'convenience_store', 'car_wash', 'point_of_interest', 'food', 'store', 'establishment']",4.1,100.0,"510 Blackfen Road, Sidcup",51.44774869999999,0.1167906
-Luso Flavour Cafe & Deli,"['cafe', 'point_of_interest', 'food', 'establishment']",4.8,172.0,"9 Welling High Street, Welling",51.4618917,0.1132583
-Costa Coffee,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.2,115.0,"28, Embassy Court, Welling",51.46199,0.11016
-Cafe Deluxe,"['cafe', 'point_of_interest', 'food', 'establishment']",4.7,199.0,"6 Bellegrove Road, Welling",51.4627016,0.107036
-Age Concern Pop in Parlour,"['cafe', 'point_of_interest', 'food', 'establishment']",,,"Forest Road, Erith",51.4689175,0.1902395
-Costa Coffee,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.2,212.0,"19 Blackfen Road, Sidcup",51.4503902,0.1034904
-Costa Coffee,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.3,307.0,"Unit 6, Riverside Shopping Centre, 21A Town Square, Erith",51.480319,0.1805111
-Ace Cafe London,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,5493.0,"Ace Corner, North Circular Road, London",51.5413119,-0.277825
-Abbey Point Hotel,"['cafe', 'lodging', 'food', 'point_of_interest', 'establishment']",4.3,401.0,"300-302 Twyford Abbey Road, London",51.5349659,-0.2754636
-Asda Park Royal Superstore,"['supermarket', 'atm', 'gas_station', 'clothing_store', 'finance', 'cafe', 'pharmacy', 'health', 'grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment']",3.5,1043.0,"2-20 Western Road, London",51.52781,-0.2698899999999999
-Asda Wembley Superstore,"['supermarket', 'atm', 'gas_station', 'clothing_store', 'finance', 'cafe', 'pharmacy', 'health', 'grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment']",3.7,1197.0,"Forty Lane, Wembley",51.56479119999999,-0.2755593
-Caffè Nero,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.2,464.0,"27 St Anns Road, Harrow",51.5811242,-0.3352072
-Patisserie Patchi,"['bakery', 'cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,2717.0,"28 Abbey Road, London",51.5326775,-0.2750395
-Amouage Lounge,"['cafe', 'bakery', 'night_club', 'bar', 'store', 'food', 'point_of_interest', 'establishment']",3.9,151.0,"32-34 Cricklewood Broadway, London",51.5532854,-0.2110543
-New Atlas Cafe,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.7,114.0,"New, Atlas Cafe, 69-71 Craven Park Road, London",51.53942640000001,-0.2527655999999999
-Norman’s Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.4,62.0,"263 Hool Close, London",51.5830734,-0.2633904
-Workmans Cafe London,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,109.0,"368 High Road, London",51.5492159,-0.2421223
-Starbucks Coffee,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.9,442.0,"Engineers Way, Wembley",51.5587657,-0.2819752
-Treatz Dessert Parlour Wembley,"['bakery', 'cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.0,579.0,"Designer Outlet, Unit 5a London, Wembley Park Boulevard, Wembley",51.557095,-0.2826485
-Chaboba,"['cafe', 'food', 'point_of_interest', 'establishment']",4.2,341.0,"20 Wembley Park Boulevard, London",51.5574209,-0.2842227000000001
-Costa Coffee,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.2,767.0,"Unit 49, London Designer Outlet, Wembley Park Boulevard, Wembley",51.55669,-0.28339
-Costa Coffee,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.2,316.0,"7 Olympic Way, Wembley, London",51.561082,-0.2791689999999999
-Costa Coffee,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.3,351.0,"19 Bridge Road, Wembley Park, Wembley",51.564592,-0.277879
-CerbulRomanesc.uk,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.0,600.0,"414 High Road, Wembley",51.5537699,-0.2912632
-Creams Cafe Wembley,"['bakery', 'meal_takeaway', 'cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.8,715.0,"Central Shopping Centre, 455 High Road, Wembley",51.55224049999999,-0.2965288
-Wild Bean Cafe,"['cafe', 'convenience_store', 'store', 'food', 'point_of_interest', 'establishment']",1.0,1.0,"2 Blackbird Hill, Wembley",51.5650114,-0.2644175
-bp,"['gas_station', 'atm', 'car_wash', 'convenience_store', 'finance', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",2.9,32.0,"2 Blackbird Hill, Wembley",51.56491,-0.26427
-Costa Coffee,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.1,749.0,"33-34 Market Square, Bromley",51.405825,0.015281
-Costa Coffee,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,357.0,"194-202 High Street, Beckenham",51.40685,-0.0282
-Caffè Nero,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.4,231.0,"12 High Street, Chislehurst",51.4179858,0.0679893
-Costa Coffee,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,260.0,"51 Station Approach, Hayes, Bromley",51.376243,0.011273
-Costa Coffee,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.9,453.0,"Unit 28, The Glades Shopping Centre, Bromley",51.4037,0.016433
-Krispy Kreme Bromley,"['bakery', 'restaurant', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,75.0,"Kiosk 98 The Glades Shopping Centre, Bromley",51.40510380000001,0.0164632
-Rendezvous Caffe,"['cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.6,402.0,"94 High Street, Beckenham",51.4080039,-0.0255196
-Cafe Giardino - Bromley,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,873.0,"High Street, Bromley",51.4043845,0.0168914
-Creams Cafe Bromley,"['bakery', 'meal_takeaway', 'restaurant', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.1,688.0,"12 Elmfield Road, Bromley",51.4025676,0.0164888
-Caffè Nero,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.0,737.0,"The Glades Shopping Centre, High Street, Bromley",51.4027547,0.0156025
-Unico Gelato & Caffé,"['bakery', 'restaurant', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.6,632.0,"75 High Street, Bromley",51.40229420000001,0.0158968
-Pret a Manger,"['bakery', 'bar', 'restaurant', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.8,283.0,"86 High Street, Bromley",51.4028644,0.0150561
-Stonehenge Cafe,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,306.0,"161 High Street, Bromley",51.4053949,0.0149449
-Caffè Nero,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,262.0,"12-14 High Street, Bromley",51.4000539,0.0168009
-Wild Bean Cafe,"['cafe', 'convenience_store', 'food', 'store', 'point_of_interest', 'establishment']",,,"133-135 Widmore Road, Bromley",51.40689620000001,0.0284365
-Chaplin’s Café,"['cafe', 'bakery', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.2,64.0,"171 Widmore Road, Bromley",51.406282,0.03289
-Twins Cafe Bromley,"['cafe', 'food', 'point_of_interest', 'establishment']",4.7,129.0,"48 Chatterton Road, Bromley",51.39197739999999,0.03589150000000001
-Costa Coffee,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.1,190.0,"147-151 Westmoreland Road, Bromley",51.392181,0.001099
-Shell,"['gas_station', 'meal_delivery', 'convenience_store', 'restaurant', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.0,90.0,"96A Bromley Hill, Bromley",51.4183057,0.001848
-Ted's Coffee Shop,"['cafe', 'food', 'point_of_interest', 'establishment']",4.9,64.0,"227 Southborough Lane, Bromley",51.3900669,0.050858
-Generator London,"['cafe', 'lodging', 'bar', 'point_of_interest', 'food', 'establishment']",3.7,4365.0,"37 Tavistock Place, London",51.52620449999999,-0.124825
-The Wesley,"['cafe', 'lodging', 'restaurant', 'point_of_interest', 'food', 'establishment']",3.9,1565.0,"81-103 Euston Street, London",51.5266402,-0.135689
-The Rubens at the Palace,"['cafe', 'lodging', 'bar', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.5,1813.0,"39 Buckingham Palace Road, London",51.49826530000001,-0.1434998
-Park Room,"['cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.5,215.0,"86-90 Park Lane, London",51.5098444,-0.155529
-BFI IMAX,"['movie_theater', 'cafe', 'bar', 'point_of_interest', 'food', 'store', 'establishment']",4.6,6402.0,"Waterloo, 1 Charlie Chaplin Walk South Bank",51.50487889999999,-0.1136318
-The Bermondsey Square Hotel,"['cafe', 'lodging', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",4.2,758.0,"9 Bermondsey Square, London",51.497719,-0.08131559999999999
-The Wolseley,"['cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.4,6033.0,"160 Piccadilly, St. James's, London",51.5074427,-0.1409233
-The Ivy,"['cafe', 'bar', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.4,3489.0,"1-5 West Street, London",51.51286029999999,-0.128045
-Rich Mix,"['movie_theater', 'art_gallery', 'cafe', 'point_of_interest', 'food', 'establishment']",4.5,1972.0,"35-47 Bethnal Green Road, London",51.5243955,-0.07319679999999998
-The Pilgrm Hotel Restaurant and Bar Paddington,"['cafe', 'night_club', 'lodging', 'bar', 'point_of_interest', 'food', 'establishment']",4.0,914.0,"25 London Street, London",51.51576679999999,-0.1744445
-ODEON Tottenham Court Rd,"['movie_theater', 'cafe', 'point_of_interest', 'food', 'store', 'establishment']",3.7,1571.0,"Central Cross, 30 Tottenham Court Road, London",51.5183526,-0.1324275
-L'Escargot Restaurant,"['cafe', 'bar', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.4,853.0,"48 Greek Street, London",51.5139706,-0.1309972
-Wigmore Hall,"['cafe', 'bar', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.8,1254.0,"36 Wigmore Street, London",51.516608,-0.1481362
-Monmouth Coffee Company,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.5,2078.0,"2 Park Street, London",51.5055334,-0.09140690000000001
-ODEON Luxe West End,"['movie_theater', 'cafe', 'bar', 'point_of_interest', 'food', 'store', 'establishment']",4.6,338.0,"38a Leicester Square, London",51.50992159999999,-0.1301796
-The British Library,"['library', 'tourist_attraction', 'cafe', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",4.5,2621.0,"96 Euston Road, London",51.52997169999999,-0.1276759
-Foyles,"['book_store', 'cafe', 'electronics_store', 'home_goods_store', 'point_of_interest', 'food', 'store', 'establishment']",4.7,10958.0,"107 Charing Cross Road, London",51.51430149999999,-0.1299049
-Curzon Soho,"['movie_theater', 'cafe', 'bar', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.5,1579.0,"99 Shaftesbury Avenue, London",51.5127004,-0.1305849
-The Table Café,"['cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.3,1976.0,"83 Southwark Street, London",51.5054844,-0.0998167
-Swan London,"['restaurant', 'cafe', 'bar', 'point_of_interest', 'food', 'establishment']",4.3,3024.0,"21 New Globe Walk, Bankside, London",51.5082418,-0.09652360000000001
-The Tram Stop,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.3,319.0,"231 Lower Addiscombe Road, Croydon",51.38025599999999,-0.0733924
-bp,"['gas_station', 'atm', 'convenience_store', 'car_wash', 'finance', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",2.6,54.0,"3 Mitcham Road, Croydon",51.3788072,-0.1109563
-Pavilion @ BedZED,"['cafe', 'food', 'point_of_interest', 'establishment']",4.0,51.0,"24A Sandmartin Way, Hackbridge, Wallington",51.3831545,-0.1565439
-Cafe Del Mar,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.7,70.0,"48 Stafford Road, Wallington",51.35851369999999,-0.1452875
-Waddon Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.3,90.0,"445 Purley Way, Croydon",51.36465010000001,-0.1179416
-Today's Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.7,348.0,"267 Brighton Road, South Croydon",51.3538806,-0.09754410000000001
-Al Amora Lounge,"['cafe', 'food', 'point_of_interest', 'establishment']",4.4,165.0,"78 Windmill Road, Croydon",51.385601,-0.09990729999999999
-Yeha Noha Cafe Bar,"['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment']",4.6,206.0,"Yeha Noha Cafe, 19-21 Station Road, London",51.397839,-0.07568289999999998
-English & Continental,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,54.0,"1074, Whitgift Centre, 21 North End, Croydon",51.37550960000001,-0.0993801
-Pure Foods,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",5.0,2.0,"4 Coomber Way, Croydon",51.38683090000001,-0.1344001
-Mayday Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.3,75.0,"355 London Road, Croydon",51.3855279,-0.1100945
-Classic Cafe Croydon,"['cafe', 'food', 'point_of_interest', 'establishment']",3.3,108.0,"1019, Whitgift Centre, 21 North End, Croydon",51.37614199999999,-0.1026035
-Massarella Catering Co,"['cafe', 'food', 'point_of_interest', 'establishment']",4.0,3.0,"1 Drury Crescent, Croydon",51.3744896,-0.1170561
-Crushed Bean,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.8,305.0,"81 High Street, Croydon",51.37113649999999,-0.1001019
-The Ludoquist - Board Game Cafe Bar,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.8,1248.0,"63-67 High Street, Croydon",51.3715824,-0.1003029
-Caffè Nero,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.3,452.0,"44 George Street, Croydon",51.37387829999999,-0.09842200000000001
-Costa Coffee,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.3,172.0,"Ground Floor, 11, Bath & Body Works, 19 North End, Croydon",51.374394,-0.101177
-Caffè Nero,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.1,496.0,"93 George Street, East, Croydon",51.37465539999999,-0.0944922
-Bao Bao Taiwanese Street Food,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.7,641.0,"Unit 44-45, Boxpark, 99 George Street, Croydon",51.375038,-0.09413819999999999
-Costa Coffee,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.9,142.0,"1 Station, Station Approach, Croydon",51.375025,-0.093171
-Watermans Arts Centre,"['movie_theater', 'art_gallery', 'cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,623.0,"40 High Street, Brentford",51.4856828,-0.298389
-The National Archives,"['book_store', 'park', 'cafe', 'storage', 'travel_agency', 'store', 'food', 'point_of_interest', 'establishment']",4.5,237.0,"Bessant Drive, Richmond",51.4811031,-0.2793934
-Shell,"['gas_station', 'convenience_store', 'cafe', 'meal_delivery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.6,51.0,"882 Great West Road, Isleworth",51.48344400000001,-0.328037
-Piccola Italia Ealing,"['meal_takeaway', 'bar', 'cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,561.0,"21 The Green, London",51.51074070000001,-0.3052565
-Caffè Nero,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.2,370.0,"51 New Broadway, London",51.51271609999999,-0.3071020999999999
-The Original Maids of Honour,"['cafe', 'food', 'point_of_interest', 'establishment']",4.3,1003.0,"288 Kew Road, Richmond",51.48080189999999,-0.2884071
-Caffe Nero,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.2,378.0,"386 Chiswick High Road, London",51.49270509999999,-0.2647684
-Chiswick House and Gardens Trust,"['park', 'tourist_attraction', 'cafe', 'food', 'point_of_interest', 'establishment']",4.6,936.0,"Chiswick House, London",51.4838077,-0.2586959999999999
-Bagel & Shake Ealing,"['bakery', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.6,266.0,"46-48 Drayton Green Road, London",51.513111,-0.3194325000000001
-Costa Coffee,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.8,225.0,"Ealing Hospital, Uxbridge Road, Southall",51.50735,-0.34654
-Costa Coffee,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.0,227.0,"437 Uxbridge Road, London",51.50998,-0.28748
-Brentford Fountain Leisure Centre,"['cafe', 'food', 'point_of_interest', 'establishment']",3.4,1082.0,"658 Chiswick High Road, Brentford, London",51.4908641,-0.2850528000000001
-Costa Coffee,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.1,741.0,"Unit 14, Westway Cross Shopping Park, Greenford",51.54279,-0.33946
-Arabella sweet,"['cafe', 'food', 'point_of_interest', 'establishment']",5.0,1.0,"Park Royal Business Centre, 9-17 Park Royal Road, London",51.52649329999999,-0.2662818999999999
-Boof Restaurant,"['meal_takeaway', 'bar', 'cafe', 'meal_delivery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,810.0,"57 New Broadway, London",51.512618,-0.307351
-Artisan Coffee School,"['cafe', 'food', 'point_of_interest', 'establishment']",4.7,265.0,"32 New Broadway, London",51.5131139,-0.3066972000000001
-ODEON Luxe Lee Valley,"['movie_theater', 'bar', 'cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.3,3684.0,"Lee Valley, Edmonton, Pickett's Lock Lane, London",51.6331468,-0.0372402
-bp,"['gas_station', 'car_wash', 'atm', 'cafe', 'finance', 'point_of_interest', 'food', 'establishment']",2.9,19.0,"Bullsmoor Lane, Enfield",51.67990999999999,-0.04832
-Costa Coffee,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.0,110.0,"288 High Street, Enfield",51.64781300000001,-0.04783
-Krispy Kreme Enfield,"['bakery', 'cafe', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.4,2615.0,"492 Great Cambridge Road, Enfield",51.65235,-0.05934000000000001
-Costa Coffee,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.0,248.0,26 Palace Gardens Shopping Cen,51.651189,-0.083939
-Cafe Venezia,"['cafe', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.6,91.0,"8 Chaseville Parade, Chaseville Park Road, London",51.643839,-0.113314
-Occo Cafe,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.4,18.0,"Market Chambers, Church Street, Enfield",51.65224389999999,-0.0828451
-Creams Cafe Enfield,"['meal_takeaway', 'bakery', 'cafe', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.0,896.0,"5-6 Savoy Parade, Enfield",51.6522106,-0.07687859999999998
-Caffè Nero,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",3.9,516.0,"Shopping Centre, palace Exchange, 22 The Town, Enfield",51.6514579,-0.08295250000000001
-Leo's Coffee Shop,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.7,27.0,"Platform 1, Enfield Chase Railway Station, Windmill Hill, Enfield",51.6532102,-0.0908163
-Zippola,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.5,299.0,"Zippola, Live to Eat, 93 Lancaster Road, Enfield",51.66408740000001,-0.08183230000000001
-Starbucks Coffee,"['cafe', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",3.6,82.0,"208 Southbury Road, Enfield",51.6501224,-0.0607296
-Costa Coffee,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.1,309.0,"Unit 1, Next Home, Enfield Retail Park, Crown Road, Enfield",51.65448,-0.05898
-Stantons Coffee House,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.8,93.0,"7 Queen Anne's Place, Enfield",51.64181199999999,-0.0699637
-Shell,"['gas_station', 'car_wash', 'meal_delivery', 'cafe', 'convenience_store', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.1,112.0,"790 Great Cambridge Road, Enfield",51.66362700000001,-0.0568554
-Caffe Napoli,"['cafe', 'point_of_interest', 'food', 'establishment']",,,"79 Lynmouth Avenue, Enfield",51.6377731,-0.0667058
-Costa Coffee,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.2,251.0,"163 Hertford Road, Enfield",51.6579,-0.046995
-The Larder,"['cafe', 'bar', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.6,94.0,"26 The Green, London",51.6342671,-0.1028123
-Coffee Break,"['cafe', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.6,551.0,"792 Green Lanes, London",51.63175500000001,-0.09455590000000003
-ODEON Greenwich,"['movie_theater', 'cafe', 'bar', 'point_of_interest', 'store', 'food', 'establishment']",4.1,4133.0,"Bugsby's Way, London",51.49059219999999,0.0127925
-Costa Coffee - Woolwich DLR,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",3.7,507.0,"1 Woolwich New Road, London",51.490332,0.0693795
-Costa Coffee,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",4.2,225.0,"Unit C, NEXT, 4 Brocklebank Road, London",51.49078,0.02343
-The Garden Community Cafe,"['cafe', 'point_of_interest', 'food', 'establishment']",4.7,114.0,"7 Cundy Road, London",51.51108729999999,0.0328802
-Charlton House & Gardens,"['cafe', 'point_of_interest', 'food', 'establishment']",4.5,678.0,"Charlton Road, London",51.48059880000001,0.03717220000000001
-East Greenwich Pleasaunce,"['park', 'cafe', 'restaurant', 'point_of_interest', 'store', 'food', 'establishment']",4.6,324.0,"10 Chevening Road, London",51.484675,0.0137639
-Asda Beckton Superstore,"['supermarket', 'atm', 'gas_station', 'pharmacy', 'cafe', 'grocery_or_supermarket', 'clothing_store', 'finance', 'point_of_interest', 'health', 'store', 'food', 'establishment']",3.6,998.0,"Tollgate Road, Beckton",51.515668,0.05826199999999999
-Marks and Spencer,"['department_store', 'convenience_store', 'supermarket', 'cafe', 'grocery_or_supermarket', 'clothing_store', 'point_of_interest', 'store', 'food', 'establishment']",4.2,926.0,"115 Eltham High Street, London",51.4509354,0.0549693
-Buenos Aires Cafe,"['cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.4,568.0,"17 Royal Parade, London",51.46716559999999,0.007254000000000001
-Costa Coffee,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",4.2,278.0,"41 Tranquil Vale, London",51.467399,0.007877000000000002
-The Coffee Lounge,"['cafe', 'restaurant', 'point_of_interest', 'store', 'food', 'establishment']",4.2,514.0,"Equitable House, 29 Greens End, London",51.4904417,0.0682417
-Roz Cafe,"['cafe', 'point_of_interest', 'food', 'establishment']",4.3,82.0,"1 Pier Road, London",51.50087869999999,0.06309429999999999
-Moca cafe,"['cafe', 'restaurant', 'point_of_interest', 'store', 'food', 'establishment']",4.6,235.0,"10 Old Dover Road, London",51.476733,0.0209958
-Tesco Cafe,"['cafe', 'restaurant', 'point_of_interest', 'store', 'food', 'establishment']",3.7,56.0,"Grand Depot Road, London",51.48919209999999,0.06624929999999998
-First Choice Cafe And Restaurant,"['cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.5,458.0,"51 Hare Street, London",51.49348,0.06337899999999999
-The Yoga Space London,"['gym', 'cafe', 'point_of_interest', 'health', 'store', 'food', 'establishment']",4.8,62.0,"Norton House, Duke of Wellington Avenue, London",51.4946502,0.06653479999999998
-Menagerie Cafe,"['cafe', 'point_of_interest', 'food', 'establishment']",3.4,11.0,"Unit 9, The I O Centre, Skeffington Street, London",51.4920267,0.07648390000000001
-Arts Cafe,"['cafe', 'point_of_interest', 'food', 'establishment']",4.3,70.0,"Thames-Side Studios Gallery, Harrington Way, Warspite Road, London",51.4946119,0.04484590000000001
-The Plumstead Pantry SE18,"['restaurant', 'cafe', 'point_of_interest', 'store', 'food', 'establishment']",4.7,160.0,"16 Warwick Terrace, London",51.48180379999999,0.0836855
-The Chef House kitchen,"['cafe', 'point_of_interest', 'food', 'establishment']",4.7,124.0,"Westminster Industrial Estate, 19 Bowater Road (unit 76 In, London",51.49396369999999,0.0421675
-Cafe 1001,"['bar', 'cafe', 'point_of_interest', 'food', 'establishment']",4.2,953.0,"91 Brick Lane, London",51.52093410000001,-0.0719882
-Ottolenghi Islington,"['cafe', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.4,2115.0,"287 Upper Street, London",51.5397504,-0.1022929
-Allpress Espresso Bar London,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.4,610.0,"58 Redchurch Street, London",51.52440099999999,-0.07426039999999999
-Wilton's Music Hall,"['tourist_attraction', 'bar', 'cafe', 'point_of_interest', 'food', 'establishment']",4.8,2088.0,"1 Graces Alley, London",51.51070129999999,-0.0668967
-Costa Coffee,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.1,422.0,"9 Eldon Street, Broadgate, London",51.518699,-0.084719
-The Zetter Clerkenwell,"['bar', 'cafe', 'lodging', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.4,970.0,"49-50 Saint John's Square, London",51.5230962,-0.1038718
-La Divina Italian Restaurant,"['bar', 'cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.5,1003.0,"134 Upper Street, London",51.5392687,-0.1025622
-Cafe OTO,"['cafe', 'point_of_interest', 'food', 'establishment']",4.6,623.0,"18-22 Ashwin Street, London",51.54694199999999,-0.07477230000000001
-The Breakfast Club Angel,"['bar', 'cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.2,2310.0,"31 Camden Passage, London",51.5350988,-0.103734
-Manicomio City Restaurant,"['cafe', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.2,398.0,"6 Gutter Lane, London",51.5155225,-0.0954193
-Strongroom Bar,"['bar', 'cafe', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.2,2002.0,"120-124 Curtain Road, London",51.5259464,-0.08005219999999999
-Bottega Prelibato Restaurant,"['bar', 'cafe', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.1,680.0,"43-45 Rivington Street, London",51.52612739999999,-0.08142909999999999
-Paper Dress Vintage,"['night_club', 'bar', 'cafe', 'clothing_store', 'home_goods_store', 'store', 'point_of_interest', 'food', 'establishment']",4.6,496.0,"352a Mare Street, London",51.5473541,-0.05467259999999999
-Bike Shed Moto Co.,"['restaurant', 'bar', 'cafe', 'clothing_store', 'hair_care', 'health', 'store', 'point_of_interest', 'food', 'establishment']",4.7,3661.0,"384 Old Street, London",51.5271434,-0.0788825
-Caravan Exmouth Market Restaurant,"['restaurant', 'bar', 'cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.2,1264.0,"11-13 Exmouth Market, London",51.52546299999999,-0.1100856
-Gallery Cafe,"['cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.3,941.0,"St. Margarets House Settlement, 21 Old Ford Road, Bethnal Green, London",51.52987400000001,-0.05447
-Gallipoli Restaurant,"['bar', 'cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.4,1414.0,"119 Upper Street, London",51.5385288,-0.1026159
-Costa Coffee,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.1,278.0,"46 Cowcross Street, London",51.519943,-0.105043
-Med's Cafe,"['cafe', 'bakery', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.2,631.0,"37 Burdett Road, London",51.522864,-0.03397489999999999
-London Lodge Hotel,"['cafe', 'night_club', 'clothing_store', 'lodging', 'store', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,364.0,"134-136 Lexham Gardens, London",51.495723,-0.19496
-Afternoon Tea at The Milestone Hotel,"['cafe', 'food', 'point_of_interest', 'establishment']",4.6,92.0,"1-3 Kensington Court, London",51.50200719999999,-0.1866267
-Bluebird,"['cafe', 'night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,3094.0,"350 King's Road, London",51.4847353,-0.1755033
-Serpentine Gallery,"['art_gallery', 'tourist_attraction', 'cafe', 'museum', 'food', 'point_of_interest', 'establishment']",4.4,1634.0,London,51.50462700000001,-0.175073
-The Orangery Restaurant,"['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment']",3.9,498.0,"Kensington Palace Gardens, London",51.5065855,-0.1877335
-"Dukes Meadows Golf, Tennis & Ski","['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.3,730.0,"Dan Mason Drive, London",51.472398,-0.2634714
-La Piccola Deli Pasticceria,"['cafe', 'bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.6,561.0,"La Piccola Deli Pasticceria, 270 Kensington High Street, London",51.4986294,-0.2008059
-The Hummingbird Bakery,"['bakery', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.1,297.0,"133 Portobello Road, London",51.5140807,-0.2038636
-Fulham Palace,"['museum', 'tourist_attraction', 'cafe', 'park', 'food', 'point_of_interest', 'establishment']",4.5,1680.0,"Bishop's Avenue, London",51.4707092,-0.2159675
-The Hummingbird Bakery - South Kensington,"['bakery', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.0,268.0,"47 Old Brompton Road, London",51.4933004,-0.1754869
-ODEON Luxe Putney,"['movie_theater', 'cafe', 'store', 'bar', 'food', 'point_of_interest', 'establishment']",4.4,1190.0,"26 Putney High Street, London",51.4652107,-0.2142387
-Betty Blythe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.2,170.0,"73 Blythe Road, London",51.497602,-0.2175909
-Coco Momo,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.3,1026.0,"25 Gloucester Road, South Kensington, London",51.4981216,-0.1835399
-The Magic Cafe,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.4,54.0,"359 Fulham Palace Road, London",51.47506300000001,-0.21423
-Le Pain Quotidien,"['restaurant', 'cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment']",3.9,1783.0,"15-17 Exhibition Road, London",51.4950084,-0.1736302
-The Prince Edward,"['restaurant', 'cafe', 'bar', 'food', 'point_of_interest', 'establishment']",4.3,911.0,"73 Prince's Square, London",51.5129205,-0.1935085
-Putney Leisure Centre,"['cafe', 'gym', 'health', 'school', 'food', 'point_of_interest', 'establishment']",3.7,722.0,"Dryburgh Road, London",51.46365619999999,-0.2286599
-Caffè Concerto Kensington,"['cafe', 'bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,1985.0,"88 Kensington High Street, London",51.5018036,-0.191723
-Stonebridge Lock Waterside Cafe (Dog cafe!),"['cafe', 'food', 'point_of_interest', 'establishment']",4.7,285.0,"Watermead Way, London",51.5976247,-0.0502964
-Autograf Restaurant,"['cafe', 'meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,943.0,"488 West Green Road, Duckett's Green, London",51.58778710000001,-0.099087
-Park Theatre,"['cafe', 'food', 'bar', 'point_of_interest', 'establishment']",4.6,1175.0,"13 Clifton Terrace, London",51.5657146,-0.1085131
-Costa Coffee,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.0,295.0,"1 The Broadway, London",51.57886,-0.12408
-Costa Coffee,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,202.0,"66 Highgate High Street, London",51.57106,-0.14809
-Asda Living Tottenham,"['home_goods_store', 'cafe', 'clothing_store', 'food', 'store', 'point_of_interest', 'establishment']",4.1,2067.0,"Unit 4a, Tottenham Hale Retail Park, Broad Lane, London",51.58753,-0.06111999999999999
-The Haberdashery,"['cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.5,491.0,"22 Middle Lane, London",51.5812225,-0.1235522
-ArtHouse Crouch End,"['movie_theater', 'cafe', 'food', 'point_of_interest', 'establishment']",4.6,527.0,"159A Tottenham Lane, London",51.5818634,-0.12003
-Aladdin's Vintage Furniture & Cafe,"['cafe', 'moving_company', 'storage', 'furniture_store', 'home_goods_store', 'food', 'store', 'point_of_interest', 'establishment']",4.6,99.0,"1 Hazellville Road, London",51.5695455,-0.1243871
-The Archway Tavern,"['cafe', 'food', 'bar', 'point_of_interest', 'establishment']",4.2,342.0,"1 Navigator Square, Archway, London",51.5659627,-0.1349262
-Costa Coffee,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.9,1152.0,"Unit E, Tottenham Hale Retail Park, London",51.58758400000001,-0.063354
-Costa Coffee,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.7,328.0,"Unit 4C, The Arena Shopping Pa, London",51.576439,-0.097673
-Jenny's Cafe & Restaurant N10,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,440.0,"237 Muswell Hill Broadway, London",51.5915429,-0.1430246
-Barista Coffee House,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.5,54.0,"5, Station Forecourt, Station Road, London, Edgware",51.6136876,-0.2755771999999999
-Costa Coffee,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.2,250.0,"153 Field End Road, Pinner",51.578639,-0.399112
-Caffè Nero,"['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",3.9,408.0,"Unit 2, 67-70 Station Road, Edgware",51.61307679999999,-0.2772073
-Costa Coffee,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.1,498.0,"250 / 252 Northolt Road, South Harrow, Harrow",51.5641,-0.354526
-Imperial Cafe,"['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",4.7,306.0,"238 Imperial Drive, Harrow",51.5761555,-0.3702117
-Sunrise Cafe,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.4,124.0,"343 High Road, Harrow",51.6039171,-0.339743
-Randalls Coffee House,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.2,90.0,"284B Station Road, Harrow",51.58203409999999,-0.3324514
-Costa,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.1,302.0,"24-26 Church Road, Stanmore",51.6172742,-0.3120828
-Costa Coffee,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",3.8,26.0,"2, Tesco, Harrow",51.58589,-0.33413
-Red Brick Cafe,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.4,49.0,"38-40 High Street, Harrow",51.5943109,-0.3348485
-Rumble Tumble Harrow Ltd,"['cafe', 'school', 'food', 'point_of_interest', 'establishment']",4.0,372.0,"Ground Floor, Bruce House, Lower, Sovereign Place, Harrow",51.5850435,-0.3310073
-Costa Coffee,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.2,408.0,"112-114, Wealdstone, High Street, Harrow",51.5966,-0.335204
-Costa Coffee,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.2,650.0,"76-80 St Anns Road, Harrow",51.58231,-0.3366599999999999
-Mooboo,"['cafe', 'food', 'point_of_interest', 'establishment']",4.4,180.0,"St Georges Shopping Centre St Ann's Road, Harrow",51.5815078,-0.3393113
-Bru coffee & more,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.2,750.0,"Square 1, Bond Apartments, College Road, Harrow",51.5799485,-0.3357646
-Treats,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",3.9,18.0,"College Road, Harrow",51.58003069999999,-0.3374615
-Caffè Nero,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.1,70.0,"on the Hill Station, Station Approach, Harrow",51.579555,-0.3368828
-The Moat Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.0,107.0,"Pinner View, Harrow",51.59404749999999,-0.354366
-Costa Coffee,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.4,330.0,"8 Warwick Parade Kenton Lane, Harrow",51.60069999999999,-0.3180999999999999
-Costa Coffee,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.0,136.0,"Bryant Avenue, Romford",51.5936,0.21781
-Cosy Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.6,197.0,"197 Ardleigh Green Road, Hornchurch",51.5841228,0.22022
-Shell,"['gas_station', 'car_wash', 'meal_delivery', 'convenience_store', 'restaurant', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.8,82.0,"Eastern Avenue East, Romford",51.59127179999999,0.1790432
-Costa Coffee,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.1,206.0,"83 Main Road, Romford",51.586734,0.200045
-bp,"['gas_station', 'atm', 'car_wash', 'finance', 'cafe', 'food', 'point_of_interest', 'establishment']",4.5,12.0,"132 Hornchurch Road, Hornchurch",51.5650117,0.2036263
-Costa Coffee,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.9,108.0,"NEXT, Gallows Corner, Gallows Corner Retail Park, Colchester Road, Romford",51.592862,0.215658
-ODEON Uxbridge,"['movie_theater', 'cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.1,2438.0,"302, The chimes shopping centre, Uxbridge",51.5450527,-0.4756154
-"The Black Horse Pub & Restaurant, Iver Heath","['cafe', 'restaurant', 'food', 'bar', 'point_of_interest', 'establishment']",4.2,725.0,"95 Slough Road, Iver",51.5373325,-0.5156964999999999
-Costa Coffee,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",3.9,380.0,"100 - 102 High Street, Ruislip",51.57409999999999,-0.424681
-Costa Coffee,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.1,971.0,"51-52 High Street, Uxbridge",51.547418,-0.48107
-Pret A Manger,"['cafe', 'bakery', 'health', 'restaurant', 'food', 'bar', 'point_of_interest', 'store', 'establishment']",4.1,291.0,"The Pavilions Shopping Centre, Grainge's Yard, Uxbridge",51.5470086,-0.4815969999999999
-Village Bed & Breakfast and Cafe,"['cafe', 'lodging', 'food', 'point_of_interest', 'establishment']",4.0,3.0,"105 Hillingdon Hill, Uxbridge",51.53536219999999,-0.4608473
-Greggs,"['bakery', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",3.9,291.0,"148-152 High Street, Uxbridge",51.5467867,-0.4799914
-Lady Marmalade Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,136.0,"30 High Road, Uxbridge",51.52251219999999,-0.4812015000000001
-Caffè Nero,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.2,621.0,"185-186, The chimes shopping centre, Uxbridge",51.545424,-0.4766446
-Lavazza,"['cafe', 'food', 'point_of_interest', 'establishment']",2.0,47.0,"5th, The Charter Building, Vine Street, Uxbridge",51.5449865,-0.4793672
-Starbucks,"['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",4.1,509.0,"High Street, Uxbridge",51.545742,-0.478584
-LAB Coffee Works,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.6,34.0,"The Charter Building, Charter Place, Uxbridge",51.54548200000001,-0.47927
-Costa Coffee,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.3,354.0,"172 High Street, Uxbridge",51.546606,-0.4781420000000001
-Creams Cafe Uxbridge,"['meal_takeaway', 'cafe', 'bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",4.0,956.0,"61 Belmont Road, Uxbridge",51.54836719999999,-0.4778184000000001
-1966,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.2,267.0,"Brunel University London, Kingston Lane, Uxbridge",51.5328974,-0.4735067000000001
-Bertram's Café,"['cafe', 'food', 'point_of_interest', 'establishment']",4.2,155.0,"95 Oxford Road, Denham, Uxbridge",51.5561294,-0.4913555000000001
-Maison Du Soleil,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.5,161.0,"25 Swakeleys Road, Ickenham, Uxbridge",51.56463220000001,-0.4453297
-Costa Coffee,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.2,78.0,"Trout Road, West Drayton",51.515678,-0.477281
-bp,"['gas_station', 'atm', 'cafe', 'convenience_store', 'finance', 'food', 'point_of_interest', 'store', 'establishment']",3.5,31.0,"Oxford Road, Uxbridge",51.56826520000001,-0.5047423000000001
-Costa Coffee,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.4,109.0,"High Street, Iver",51.5201824,-0.505983
-Curzon Richmond,"['movie_theater', 'cafe', 'bar', 'point_of_interest', 'food', 'establishment']",4.5,264.0,"3 Water Lane, Richmond",51.4592363,-0.3070303999999999
-The Eel Pie,"['restaurant', 'cafe', 'bar', 'point_of_interest', 'food', 'establishment']",4.5,977.0,"9-11 Church Street, Twickenham",51.4469808,-0.3265452
-Asda Feltham Superstore,"['supermarket', 'pharmacy', 'cafe', 'grocery_or_supermarket', 'clothing_store', 'point_of_interest', 'health', 'store', 'food', 'establishment']",4.1,4063.0,"Tilley Road, Feltham",51.44573,-0.4115
-Costa Coffee,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",4.2,315.0,"36 The Centre, Feltham",51.4464,-0.410527
-Mount Cafe,"['cafe', 'point_of_interest', 'food', 'establishment']",4.2,130.0,"Market Parade, 11 Hampton Road West, Hanworth, Feltham",51.4402074,-0.3869331999999999
-Squire’s Garden Centre,"['cafe', 'pet_store', 'point_of_interest', 'store', 'food', 'establishment']",4.4,2124.0,"Sixth Cross Road, Twickenham",51.4354405,-0.3518239
-Bill's Richmond Restaurant,"['cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.5,2177.0,"1-3 Hill Rise, Richmond",51.4580509,-0.3054919
-Costa Coffee,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",4.2,1148.0,"241 High Street, Hounslow",51.46842,-0.3637400000000001
-Caffe Mamma,"['cafe', 'meal_takeaway', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.4,436.0,"110 Kew Road, Richmond",51.4664059,-0.2974021000000001
-Costa Coffee,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",4.1,348.0,"26-28 London Road, Twickenham",51.447705,-0.328678
-Islamic Integration Community Centre,"['mosque', 'cafe', 'place_of_worship', 'point_of_interest', 'health', 'store', 'food', 'establishment']",4.8,187.0,"531 Staines Road, Hounslow",51.46276229999999,-0.389633
-The Coffee Bean,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",4.8,53.0,"37B High Street, Twickenham",51.4519645,-0.3577604
-Coffee And Muffins,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",2.7,15.0,"High Street, Hounslow",51.46784390000001,-0.3629304
-Jungle VIP,"['cafe', 'restaurant', 'point_of_interest', 'store', 'food', 'establishment']",4.2,495.0,"Unit 5, The Blenheim Centre, Prince Regent Road, Hounslow",51.4706512,-0.3630229
-Wild Bean Cafe,"['cafe', 'convenience_store', 'point_of_interest', 'store', 'food', 'establishment']",2.0,1.0,"481 Great West Road, Hounslow",51.4788863,-0.3617814
-bp,"['gas_station', 'convenience_store', 'cafe', 'point_of_interest', 'store', 'food', 'establishment']",3.3,37.0,"481 Great West Road, Hounslow",51.47901999999999,-0.36188
-Caffè Nero,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']",4.2,1154.0,"231 High Street, Hounslow",51.46853489999999,-0.3631513
-Curzon Bloomsbury,"['movie_theater', 'cafe', 'bar', 'food', 'point_of_interest', 'establishment']",4.4,992.0,"The Brunswick Centre, London",51.5241103,-0.1231058
-The Breakfast Club Soho,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,3350.0,"33 D'Arblay Street, London",51.51474080000001,-0.135402
-Scandinavian Kitchen,"['cafe', 'grocery_or_supermarket', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",4.6,1810.0,"61 Great Titchfield Street, London",51.5187857,-0.1408642
-Alfies Antique Market,"['jewelry_store', 'cafe', 'clothing_store', 'furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'food', 'establishment']",4.3,500.0,"13 - 25 Church Street, London",51.5241255,-0.1688334
-Curzon Mayfair,"['movie_theater', 'bar', 'cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.5,748.0,"38 Curzon Street, London",51.5065673,-0.1479457
-Brasserie Zédel,"['bar', 'cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.5,8117.0,"20 Sherwood Street, London",51.5105561,-0.1355974
-Wetherspoons (Victoria Station),"['bar', 'cafe', 'point_of_interest', 'food', 'establishment']",3.8,5064.0,"Unit 5 (1st Floor above WHSmith), Victoria Station Concourse, London",51.49507699999999,-0.1443459
-bp,"['gas_station', 'atm', 'cafe', 'convenience_store', 'finance', 'store', 'point_of_interest', 'food', 'establishment']",3.2,32.0,"Hampton Court Way, East Molesey",51.401305,-0.3433674
-ODEON Kingston,"['movie_theater', 'bar', 'cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.2,2842.0,"The Rotunda, Clarence Street, Kingston upon Thames",51.41171809999999,-0.299275
-Pembroke Lodge,"['cafe', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.6,2557.0,"Richmond Park, Richmond",51.4424628,-0.294509
-River Cafe,"['cafe', 'point_of_interest', 'food', 'establishment']",4.2,34.0,"35 Cambridge Road, Kingston upon Thames",51.4098927,-0.2889544000000001
-Costa Coffee,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",3.9,360.0,"123 High Street, New Malden",51.4001312,-0.2558116
-YMCA Hawker,"['cafe', 'gym', 'health', 'point_of_interest', 'food', 'establishment']",3.8,92.0,"Lower Ham Road, Kingston upon Thames",51.42685909999999,-0.3091662
-The Terrace Eatery,"['cafe', 'meal_takeaway', 'restaurant', 'point_of_interest', 'food', 'establishment']",3.9,556.0,"6A, Food for Thought, 7 apple Market, Kingston upon Thames",51.4092498,-0.3058121
-World of Golf London,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.4,1312.0,"Beverley Way, New Malden",51.4042459,-0.2430694
-Starbucks Coffee,"['cafe', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.0,451.0,"The Bentall Centre, Wood Street, Kingston upon Thames",51.41165929999999,-0.3038992999999999
-Costa Coffee,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.0,235.0,"59-67 Broad Street, Teddington",51.4261212,-0.3370183
-Costa Coffee,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.0,274.0,"27 Victoria Road, Surbiton",51.39247999999999,-0.306664
-Bubbles Shisha Cafe,"['cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.2,309.0,"60 Surbiton Road, Kingston upon Thames",51.40130779999999,-0.3041792
-Costa Coffee,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.1,373.0,"Unit L15, The Bentall Centre, Wood Street, Kingston upon Thames",51.41198499999999,-0.3044009999999999
-Pickled Pantry,"['cafe', 'bakery', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.6,361.0,"7 Saint Mark's Hill, Surbiton",51.3935351,-0.3030905
-Boho Cafe ( Kings Road ),"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.5,153.0,"159A King's Road, Kingston upon Thames",51.418644,-0.296785
-Hampton Pool,"['cafe', 'gym', 'spa', 'health', 'point_of_interest', 'food', 'establishment']",4.4,768.0,"High Street, Hampton",51.41846719999999,-0.3579816999999999
-La Fontana Cafe Deli Thames Ditton,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.8,113.0,"53 High Street, Thames Ditton",51.39107079999999,-0.3324529
-Beanberry Coffee Company,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.6,599.0,"30B Fife Road, Kingston upon Thames",51.4116781,-0.3029431
-St John's Smith Square,"['cafe', 'point_of_interest', 'food', 'establishment']",4.5,720.0,"Smith Square, London",51.4959978,-0.1270108
-Asda Clapham Junction Superstore,"['supermarket', 'atm', 'cafe', 'grocery_or_supermarket', 'clothing_store', 'finance', 'point_of_interest', 'store', 'food', 'establishment']",3.8,1048.0,"204 Lavender Hill, London",51.465371,-0.164962
-St Stephen's Tavern,"['restaurant', 'cafe', 'bar', 'point_of_interest', 'food', 'establishment']",4.1,3994.0,"10 Bridge Street, London",51.5011626,-0.1256042
-ODEON Streatham,"['movie_theater', 'cafe', 'point_of_interest', 'store', 'food', 'establishment']",3.8,2285.0,"47-49 High Road, London",51.4321656,-0.1286103
-Dulwich Picture Gallery,"['art_gallery', 'cafe', 'tourist_attraction', 'park', 'museum', 'point_of_interest', 'store', 'food', 'establishment']",4.5,464.0,London,51.44606219999999,-0.08632889999999999
-Dogstar,"['night_club', 'cafe', 'bar', 'point_of_interest', 'food', 'establishment']",3.8,866.0,"389 Coldharbour Lane, London",51.46172189999999,-0.1118848
-Cubana Restaurant Waterloo,"['cafe', 'bar', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.4,6124.0,"48 Lower Marsh, London",51.5015329,-0.1108987
-Morleys Brixton,"['department_store', 'cafe', 'clothing_store', 'home_goods_store', 'point_of_interest', 'store', 'food', 'establishment']",4.1,1039.0,"472-488 Brixton Road, London",51.46257139999999,-0.1153399
-The Lido Cafe (Now 400 Rabbits),"['cafe', 'bar', 'restaurant', 'point_of_interest', 'store', 'food', 'establishment']",3.6,232.0,"the lido cafe, Dulwich Road, London",51.4532779,-0.1060916
-Tooting Bec Lido,"['cafe', 'tourist_attraction', 'point_of_interest', 'food', 'establishment']",4.3,1035.0,"Tooting Bec Road, London",51.4318299,-0.1391134
-Tea House Theatre,"['cafe', 'point_of_interest', 'food', 'establishment']",4.1,1006.0,"139 Vauxhall Walk, London",51.488156,-0.120666
-Starbucks Coffee,"['cafe', 'restaurant', 'point_of_interest', 'store', 'food', 'establishment']",3.8,1248.0,"Belvedere Road, London",51.50201789999999,-0.1176771
-Dulwich Leisure Centre,"['gym', 'cafe', 'point_of_interest', 'health', 'school', 'food', 'establishment']",3.9,320.0,"2B Crystal Palace Road, London",51.46062200000001,-0.07158070000000001
-Daylesford Organic,"['cafe', 'meal_takeaway', 'grocery_or_supermarket', 'restaurant', 'point_of_interest', 'store', 'food', 'establishment']",4.1,587.0,"44B Pimlico Road, London",51.4906755,-0.1535149
-Patisserie Valerie - Victoria,"['cafe', 'bakery', 'restaurant', 'point_of_interest', 'store', 'food', 'establishment']",4.1,360.0,"55 Wilton Road, London",51.4935156,-0.1412834
-Reddoor,"['cafe', 'art_gallery', 'food', 'point_of_interest', 'establishment']",4.2,156.0,"10 Turnpin Lane, London",51.4811989,-0.009159700000000003
-Ellary's,"['restaurant', 'cafe', 'bar', 'food', 'point_of_interest', 'establishment']",4.4,569.0,"5 Harefield Road, London",51.4637915,-0.0356064
-Horniman Cafe,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.0,415.0,"100 London Road, London",51.4412058,-0.06137260000000001
-Boulangerie Jade,"['bakery', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.8,182.0,"44 Tranquil Vale, London",51.4665779,0.008105199999999998
-Pistachios in the Park,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.3,237.0,"Manor House Gardens, Old Road, London",51.4571691,0.0050104
-Café Crofton Park,"['cafe', 'food', 'point_of_interest', 'establishment']",4.4,250.0,"397 Brockley Road, London",51.4544949,-0.03729200000000001
-kings cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,86.0,"Unit D, Worsley Bridge Road",51.4255948,-0.0322499
-Sema's Cafe,"['cafe', 'meal_takeaway', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.7,199.0,"Saint Georges Parade, Perry Hill, London",51.43878720000001,-0.0333379
-Chefs Delight,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,401.0,"69 Sydenham Road, London",51.4262618,-0.05103079999999999
-Parkside Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.6,149.0,"12 Forest Hill Road, London",51.454005,-0.062735
-Costa Coffee,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.2,413.0,"14 - 15 Catford Broadway, London",51.44520300000001,-0.021762
-Costa Coffee,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.3,365.0,"103, 105 Rushey Green, London",51.447322,-0.018122
-Nes's Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.8,93.0,"18 Rushey Green, London",51.4500797,-0.0173503
-Good Hope Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.4,130.0,"Ladywell Fields, Ladywell Road, London",51.4553097,-0.0195469
-PLACE/Ladywell,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,45.0,"261 Lewisham High Street, London",51.4565417,-0.0137164
-ODEON Wimbledon,"['movie_theater', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.1,3364.0,"39 The Broadway, The Crescent, London",51.4198702,-0.2048484
-Tooting Leisure Centre,"['cafe', 'gym', 'health', 'food', 'point_of_interest', 'establishment']",3.7,545.0,"Greaves Place, London",51.4291799,-0.173911
-Asda Sutton Superstore,"['supermarket', 'atm', 'pharmacy', 'cafe', 'grocery_or_supermarket', 'clothing_store', 'health', 'finance', 'store', 'food', 'point_of_interest', 'establishment']",3.7,530.0,"Saint Nicholas Way, Sutton",51.36784899999999,-0.19524
-David Weir Leisure Centre,"['gym', 'cafe', 'health', 'food', 'point_of_interest', 'establishment']",4.2,306.0,"Middleton Road, Carshalton",51.38414059999999,-0.1813958
-Caffè Nero,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.0,606.0,"6 The Broadway, London",51.4204569,-0.2046726
-Caffè Nero,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,707.0,"Unit 1, Old House Inn, 2 Carshalton Road, Sutton",51.36112480000001,-0.1915868
-Wimbledon Guild,"['cafe', 'food', 'point_of_interest', 'establishment']",4.3,66.0,"Guild House, 30-32 Worple Road, London",51.42013559999999,-0.2107267
-Lime & Thyme,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,736.0,"56 Coombe Lane, London",51.4095306,-0.2312848
-Bill's Wimbledon Restaurant,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.3,1800.0,"20 Hartfield Road, London",51.4196726,-0.2051368
-Haydons Cafe London,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,109.0,"341 Haydons Road, London",51.4270986,-0.1905921
-Green Lane Kebab,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.5,47.0,"135 Green Lane, Morden",51.38982129999999,-0.1965553
-Peabodys Coffee,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.1,56.0,"17 Cranmer Terrace, London",51.42708570000001,-0.1745464
-Fellow Foodies,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",,,"8 Crown Lane, Morden",51.4019078,-0.1955118
-Potting Shed Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.0,205.0,"21 Morden Hall Road, Morden",51.401595,-0.1890944
-River Side Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.2,73.0,"Ravensbury Lane Ravensbury Park Surrey, Morden Road, Mitcham",51.3986135,-0.178161
-Shell,"['gas_station', 'car_wash', 'convenience_store', 'cafe', 'meal_delivery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,128.0,"262 Martin Way, London",51.4035569,-0.21375
-King Cafe and Mediterranean,"['cafe', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,132.0,"137 Green Lane, Morden",51.3898556,-0.1964668
-Asda Isle of Dogs Superstore,"['supermarket', 'gas_station', 'atm', 'cafe', 'grocery_or_supermarket', 'clothing_store', 'health', 'finance', 'store', 'food', 'point_of_interest', 'establishment']",3.3,1091.0,"151 East Ferry Road, London",51.494393,-0.01185
-Hazev Restaurant Canary Wharf,"['restaurant', 'cafe', 'store', 'bar', 'food', 'point_of_interest', 'establishment']",4.1,2132.0,"Discovery Dock Apartments West, 2 South Quay Square, London",51.50152689999999,-0.0192563
-Obicà,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.0,886.0,"Unit 1, 35 Bank Street, London",51.50263820000001,-0.0202284
-The Pantry Cafe,"['cafe', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.3,33.0,"357 High Street, London",51.5383805,-0.0011377
-Brera,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.8,1211.0,"Unit 12, 15 Cabot Square, London",51.50514709999999,-0.0221038
-Excel Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",3.7,44.0,"27 Freemasons Road, London",51.5109753,0.0255389
-Caffè Nero,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.6,42.0,"City Airport Airside, London",51.5039858,0.04981919999999999
-Costa Coffee London City Airport,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.0,116.0,"Costa at DLR Station London City Airport King George V Dock, London",51.5033146,0.04941129999999999
-Cafe Bonnane,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.3,283.0,"14 Booth Road, London",51.5022324,0.0374454
-Starbucks Royal Wharf,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,550.0,"5 Halyard Place, London",51.5018187,0.0310678
-Costa Coffee Ilford 1,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.0,575.0,"Unit 75, The Exchange Shopping Centre, Ilford",51.5602045,0.0724103
-Belgique Wanstead Cafe,"['bakery', 'meal_takeaway', 'restaurant', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.6,377.0,"29 Cambridge Park, London",51.575069,0.026112
-The Larder,"['bar', 'restaurant', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,389.0,"39 High Street, London",51.5792135,0.0253101
-Costa Coffee Express,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.1,16.0,"Studley Drive, Ilford",51.5757285,0.0463235
-Shell,"['gas_station', 'meal_delivery', 'convenience_store', 'restaurant', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.0,110.0,"London Road, Barking",51.537647,0.07150800000000002
-Eclipse Ilford,"['store', 'restaurant', 'cafe', 'food', 'point_of_interest', 'establishment']",4.1,11.0,"104-106 Cranbrook Road, Ilford, London",51.5617152,0.06915639999999999
-Maison Fraise Patisserie,"['bakery', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.4,30.0,"50 High Street, Ilford",51.589674,0.08185400000000001
-Creams Cafe Ilford,"['bakery', 'meal_takeaway', 'restaurant', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.3,571.0,"114 High Road, Ilford",51.5591394,0.07269529999999999
-Starbucks Coffee,"['restaurant', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.8,815.0,"88 High Road, Ilford",51.55858199999999,0.07182120000000002
-Grounded Coffee,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.7,14.0,"Clements Road, Ilford",51.557503,0.0728138
-Costa Coffee,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.0,932.0,"24 Cranbrook Road, Ilford",51.5593427,0.07046160000000003
-Coffeelink Ltd,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.6,54.0,"Cranbrook Road, Ilford",51.55891459999999,0.06987230000000001
-Coffee Bar Solution,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",,,"344, 348 High Road, Ilford",51.5607447,0.08339059999999998
-Aladdins,"['night_club', 'bar', 'restaurant', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.1,534.0,"374 High Road, Ilford",51.5610623,0.08437219999999998
-BAZA Lounge,"['night_club', 'bar', 'restaurant', 'cafe', 'food', 'point_of_interest', 'establishment']",4.2,300.0,"361 Ley Street, Ilford",51.5649071,0.0831798
-Wild Bean Cafe,"['cafe', 'convenience_store', 'food', 'store', 'point_of_interest', 'establishment']",3.0,5.0,"709 Eastern Avenue, Ilford",51.57417109999999,0.08551729999999998
-Creams Cafe Gants Hill,"['bakery', 'meal_takeaway', 'restaurant', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.4,897.0,"549 Cranbrook Road, Ilford",51.5759246,0.0658648
-Costa Coffee,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.9,687.0,"62-64 Station Parade, Barking",51.5392638,0.08158839999999999
-Wanstead Tea Hut,"['cafe', 'food', 'point_of_interest', 'establishment']",4.6,330.0,"Wanstead Park Avenue, London",51.56584140000001,0.04156290000000001
-Caffe Latte,"['cafe', 'food', 'point_of_interest', 'establishment']",4.0,208.0,"2, The Vicarage Field Shopping Centre, Ripple Road, Barking",51.53770429999999,0.080384
-Old Deer Park Sports Grounds,"['cafe', 'bar', 'point_of_interest', 'food', 'establishment']",4.5,367.0,"187 Kew Road, Richmond",51.46879569999999,-0.2952569
-Richmond Hill Bakery,"['bakery', 'cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.3,335.0,"54 Friars Stile Road, Richmond",51.4554742,-0.2964462999999999
-Caffè Nero,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.4,187.0,"248 Upper Richmond Road West, London",51.4648632,-0.2663235
-ODEON Surrey Quays,"['movie_theater', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.9,2953.0,"Surrey Quays Leisure Park, Redriff Road, London",51.4959322,-0.0447721
-Costa Coffee,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']",4.0,316.0,"61 High Street, Banstead",51.3227081,-0.201561
-Flittons Nursery,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']",4.4,122.0,"51 Woodmansterne Lane, Wallington",51.3417749,-0.1522915
-Caffé Kiko,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,300.0,"Saint Nicholas Way, Sutton",51.3648995,-0.1945383
-Sunshine Cafe,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.3,158.0,"10 Green Wrythe Lane, Carshalton",51.3722396,-0.1673275
-Esquires Coffee Sutton,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']",3.7,184.0,"St Nicholas Shopping Centre, Saint Nicholas Way, Surrey",51.3641762,-0.1944799
-Wallington Garden Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.1,92.0,"Shotfield, Wallington",51.3577778,-0.1508333
-Tim's Cafe,"['cafe', 'food', 'point_of_interest', 'establishment']",4.6,267.0,"222 High Street, Sutton",51.366647,-0.194299
-bp,"['gas_station', 'atm', 'car_wash', 'finance', 'cafe', 'food', 'point_of_interest', 'establishment']",2.0,22.0,"95 Saint Dunstan's Hill, Sutton",51.36492149999999,-0.2140791
-Mad Coffee Bar,"['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment']",4.7,487.0,"61 Lind Road, Sutton",51.3654159,-0.186392
-Waterstones,"['book_store', 'store', 'cafe', 'food', 'point_of_interest', 'establishment']",4.5,520.0,"71-81 High Street, Sutton",51.36217499999999,-0.1926833
-Morrisons Cafe,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.4,22.0,"31 High Street, Sutton",51.36019,-0.193252
-Caffè Nero,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']",4.1,454.0,"121 High Street, Sutton",51.36368390000001,-0.1935285
-Starbucks Coffee,"['store', 'restaurant', 'cafe', 'food', 'point_of_interest', 'establishment']",3.9,408.0,"174 High Street, Sutton",51.36521,-0.1937121
-Costa Coffee,"['store', 'cafe', 'food', 'point_of_interest', 'establishment']",4.3,370.0,"176 High Street, Sutton",51.36530699999999,-0.19354
-Simplicity,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.4,155.0,"1 Tunnel Road, London",51.5012858,-0.0531121
-Le Pont de la Tour,"['bakery', 'cafe', 'bar', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,1309.0,"36D Shad Thames, London",51.50365310000001,-0.07365070000000001
-The View Tube,"['cafe', 'food', 'point_of_interest', 'establishment']",4.6,547.0,"The Greenway, View Tube, Marshgate Lane, London",51.5353556,-0.0130833
-Pavilion Cafe Victoria Park,"['cafe', 'bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.3,1684.0,"Victoria Park, Old Ford Road, London",51.5334069,-0.0428899
-ODEON South Woodford,"['movie_theater', 'cafe', 'store', 'point_of_interest', 'food', 'establishment']",3.9,1279.0,"60, 64 High Road, London",51.5945214,0.0230187
-Belgique Cafe and Patisserie,"['cafe', 'meal_takeaway', 'bakery', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.1,102.0,"11 The Broadway, London, Woodford Green",51.6079617,0.0334775
-Asda Leyton Mills Superstore,"['supermarket', 'pharmacy', 'cafe', 'grocery_or_supermarket', 'clothing_store', 'health', 'store', 'point_of_interest', 'food', 'establishment']",4.1,4927.0,"Marshall Road, London",51.55589649999999,-0.009331099999999998
-Johnstons,"['cafe', 'point_of_interest', 'food', 'establishment']",4.2,297.0,"626 Lea Bridge Road, London",51.5755472,-0.0123824
-Venerdi,"['meal_takeaway', 'bar', 'cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.2,819.0,"9 Chatsworth Road, London",51.55192419999999,-0.0441495
-Caffè Nero,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.1,268.0,"65 Station Road, London",51.63162550000001,0.004889300000000001
-Moonlight Cafe,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.3,99.0,"143 Wood Street, London",51.58749340000001,-0.003510399999999999
-Le Parisien,"['cafe', 'point_of_interest', 'food', 'establishment']",4.5,98.0,"Leytonstone Station, Church Lane, London",51.5684249,0.008648300000000001
-Casa 05 wood street,"['cafe', 'point_of_interest', 'food', 'establishment']",4.5,50.0,"1, Golden Parade, Wood Street, London",51.58946710000001,-0.0044935
-CAFE VIVALDI,"['cafe', 'point_of_interest', 'food', 'establishment']",4.4,84.0,"117 Station Road, London",51.6324703,0.007398600000000001
-Shell,"['gas_station', 'car_wash', 'meal_delivery', 'cafe', 'convenience_store', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.4,254.0,"470 Larkshall Road, London",51.608998,-0.001241
-Markfield Park Cafe,"['cafe', 'store', 'point_of_interest', 'food', 'establishment']",4.3,482.0,"Markfield Road, London",51.5816568,-0.0612767
-Elif kitchen cafe&bistro,"['cafe', 'point_of_interest', 'food', 'establishment']",4.0,28.0,"1, 7 Garman Road, London",51.6021997,-0.0514052
-Buhler and Co (Brunch/Lunch/Coffee shop),"['cafe', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.6,567.0,"8 Chingford Road, London",51.5905938,-0.0170676
-Jack's at the Junction,"['cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.3,935.0,"252 Lavender Hill, London",51.4640078,-0.1664803
-Pottery Cafe,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.6,178.0,"735 Fulham Road, London",51.47686,-0.2024469
-GAIL's Bakery Northcote Road,"['bakery', 'cafe', 'meal_delivery', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",3.8,450.0,"64 Northcote Road, London",51.458499,-0.1662769
-The Kensington Creperie,"['cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",3.7,1667.0,"2-4 Exhibition Road, London",51.4947729,-0.173204
-GAZETTE BATTERSEA,"['cafe', 'restaurant', 'food', 'bar', 'point_of_interest', 'establishment']",4.3,590.0,"Unit 79, Sherwood Court, Chatfield Road, London",51.46581080000001,-0.1822525
+Name,Borough,Types,Rating,User Ratings Total,Vicinity,lat,lng
+Take a Break,Barking and Dagenham,"['cafe', 'food', 'point_of_interest', 'establishment']",4.0,40.0,"244 Oxlow Lane, Dagenham",51.55102600000001,0.1547964
+Asda Dagenham Superstore,Barking and Dagenham,"['supermarket', 'atm', 'grocery_or_supermarket', 'cafe', 'clothing_store', 'gas_station', 'pharmacy', 'finance', 'health', 'store', 'food', 'point_of_interest', 'establishment']",3.6,818.0,"Merrielands Crescent, Dagenham",51.5301912,0.1422174
+Becontree Heath Leisure Centre,Barking and Dagenham,"['gym', 'cafe', 'school', 'health', 'food', 'point_of_interest', 'establishment']",3.6,824.0,"Althorne Way, Dagenham",51.5609465,0.1488995
+Harrow Lodge Leisure Centre,Barking and Dagenham,"['gym', 'cafe', 'school', 'health', 'food', 'point_of_interest', 'general_contractor', 'establishment']",3.8,391.0,"Hornchurch Road, Hornchurch",51.5632907,0.2089398
+Eastbrook Cafe & Restuarant,Barking and Dagenham,"['restaurant', 'meal_takeaway', 'meal_delivery', 'cafe', 'food', 'point_of_interest', 'establishment']",4.3,91.0,"264 Rainham Road South, Dagenham",51.5508213,0.1614183
+FIDDLERS CAFE,Barking and Dagenham,"['cafe', 'food', 'point_of_interest', 'establishment']",4.3,97.0,"686 Becontree Avenue, Dagenham",51.5603893,0.1472634
+bb's coffee & muffins,Barking and Dagenham,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.9,265.0,"25-26 The Mercury Shopping Centre, Romford",51.5793087,0.185747
+The Park Cafe,Barking and Dagenham,"['cafe', 'food', 'point_of_interest', 'establishment']",4.4,147.0,"King Georges Playing Fields Car Park, Eastern Avenue West, Romford",51.5845796,0.1679879
+Shell,Barking and Dagenham,"['gas_station', 'convenience_store', 'car_wash', 'meal_delivery', 'cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.8,33.0,"Wood Lane, Dagenham",51.560415,0.1483637
+Morrisons Cafe,Barking and Dagenham,"['cafe', 'food', 'point_of_interest', 'establishment']",4.0,234.0,"Beacontree Heath, Dagenham",51.560107,0.148194
+bp,Barking and Dagenham,"['gas_station', 'atm', 'cafe', 'finance', 'restaurant', 'food', 'point_of_interest', 'establishment']",1.4,17.0,"Rush Green Road, Romford",51.5657886,0.1769919
+Costa Coffee,Barking and Dagenham,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.4,309.0,"East Business And Technical Park, Drive Thru, Drive Thru, Unit 1C, London, Yew Tree Avenue, Dagenham",51.54631500000001,0.167304
+Mel's Cafe,Barking and Dagenham,"['cafe', 'food', 'point_of_interest', 'establishment']",4.8,219.0,"Unit C8, Seedbed Centre, Essex",51.57008980000001,0.1839485
+Patisserie Valerie - Romford,Barking and Dagenham,"['bakery', 'cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.9,686.0,"Pod 3 The Brewery, Waterloo Road, Romford",51.57655380000001,0.179876
+Costa Coffee,Barking and Dagenham,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.1,480.0,"Unit 1 The Brewery, Romford",51.577044,0.179623
+Cafe Chateau,Barking and Dagenham,"['cafe', 'food', 'point_of_interest', 'establishment']",4.4,151.0,"7-9 North Street, Romford",51.5788527,0.1796929
+Café Shot,Barking and Dagenham,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.6,112.0,"78 Brentwood Road, Romford",51.57203699999999,0.1907102
+Costa Coffee,Barking and Dagenham,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.2,564.0,"Unit 2A, Goodmayes Retail Park, High Road, Romford",51.5677842,0.117121
+Tea Pot Cafe Romford,Barking and Dagenham,"['cafe', 'food', 'point_of_interest', 'establishment']",4.2,89.0,"43A Market Place, Romford",51.57987490000001,0.1822641
+Caffe Della Continental,Barking and Dagenham,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.0,235.0,"unit 36&37, Mercury Shopping Centre, Mercury Gardens, Romford",51.57929710000001,0.1852055
+bp,Barnet,"['gas_station', 'convenience_store', 'atm', 'cafe', 'store', 'finance', 'food', 'point_of_interest', 'establishment']",3.9,49.0,"407 High Road, London",51.6008685,-0.1750689
+artsdepot,Barnet,"['art_gallery', 'cafe', 'food', 'point_of_interest', 'establishment']",4.5,986.0,"5 Nether Street, London",51.61297440000001,-0.1768618
+"New River Sport, Tennis & Fitness",Barnet,"['gym', 'cafe', 'bar', 'health', 'food', 'point_of_interest', 'establishment']",3.9,151.0,"White Hart Lane, London",51.6046932,-0.09984350000000003
+Sable D'Or,Barnet,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.1,206.0,"249 Muswell Hill Broadway, London",51.5916559,-0.1430828
+Costa Coffee,Barnet,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.9,288.0,"1287 High Road, London",51.6309277,-0.1753933
+Costa Coffee,Barnet,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.0,286.0,"62-64 High Road, London",51.58895769999999,-0.1637612
+Costa Coffee,Barnet,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.1,314.0,"376 Muswell Hill Broadway, London",51.5914856,-0.1424424
+Costa Coffee,Barnet,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.1,43.0,"Coppetts Centre, North Circular Road, London",51.607269,-0.157001
+Oak Caffe,Barnet,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,484.0,"1 Oakleigh Road North, London",51.6299675,-0.174411
+Cafe Brunello's,Barnet,"['cafe', 'food', 'point_of_interest', 'establishment']",4.7,198.0,"729 Green Lanes, London",51.6311784,-0.0963743
+Aroma Patisserie,Barnet,"['bakery', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.6,441.0,"424-426 Green Lanes, London",51.62220569999999,-0.1050254
+Sunshine Garden Cafe,Barnet,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,42.0,"41 East Barnet Road, Barnet",51.64990269999999,-0.171376
+Vero Caffe,Barnet,"['cafe', 'food', 'point_of_interest', 'establishment']",4.2,403.0,"16 Sussex Ring, London",51.61498559999999,-0.1909997
+Em's Coffee,Barnet,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,368.0,"1336 High Road, London",51.6322231,-0.1752574
+Xpress Coffee,Barnet,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.8,5.0,"Oakliegh Park Station,Platform, 1 Netherlands Road, Barnet",51.6377146,-0.1663405
+My Time Delicatessen,Barnet,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.7,109.0,"375 Green Lanes, London",51.6194532,-0.1073493
+Cibo Bar Cafeteria,Barnet,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,149.0,"28 Cannon Hill, London",51.6237631,-0.1227088
+The Cookie,Barnet,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.7,43.0,"123 Bramley Road, London",51.6474255,-0.1321265
+Pots of Art,Barnet,"['cafe', 'food', 'point_of_interest', 'establishment']",4.0,2.0,"Tudor Grove, Church Crescent, London",51.6261468,-0.163929
+Oak Hill Park Cafe,Barnet,"['cafe', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,405.0,"Oak Hill Park Cafe, Parkside Gardens, Barnet",51.63460560000001,-0.1526013
+bp,Bexley,"['gas_station', 'atm', 'car_wash', 'cafe', 'finance', 'food', 'point_of_interest', 'establishment']",2.6,62.0,"295-313 Bexley Road, Erith",51.47278499999999,0.1625922
+Costa Coffee,Bexley,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.0,456.0,"Broadway Shopping Centre, Central Square, Bexleyheath",51.45598,0.145861
+Asda Living Dartford,Bexley,"['home_goods_store', 'cafe', 'clothing_store', 'food', 'store', 'point_of_interest', 'establishment']",4.2,1242.0,"Unit 4, Prospect Place, Dartford",51.44789999999999,0.21552
+Village Cafe,Bexley,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,115.0,"70 Bexley High Street, Bexley",51.44163959999999,0.1500741
+Munchies,Bexley,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.5,197.0,"228 Bexley Road, Erith",51.4735257,0.162357
+Kenny's Cafe,Bexley,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,85.0,"74 Crayford High Street, Dartford",51.453291,0.176789
+Koffi Pot,Bexley,"['cafe', 'food', 'point_of_interest', 'establishment']",4.3,189.0,"107 Welling High Street, Welling",51.46250209999999,0.108359
+Mooboo Bexleyheath,Bexley,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,71.0,"11, The Mall, Broadway Shopping Centre, Bexleyheath",51.4555653,0.1474154
+Caffè Nero,Bexley,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.3,347.0,"115 Broadway, Bexleyheath",51.4565659,0.1441646
+Creams Cafe Bexleyheath,Bexley,"['cafe', 'bakery', 'meal_takeaway', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",3.6,506.0,"143 Broadway, Bexleyheath",51.4568521,0.1420772
+Chinchins - Cafe Restaurant Bar,Bexley,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.7,457.0,"171 Broadway, London, Bexleyheath",51.4570398,0.1407846
+Vintage Lindy Lou,Bexley,"['cafe', 'food', 'point_of_interest', 'establishment']",4.7,142.0,"The Willows, Waterside, Dartford",51.45218149999999,0.1791639
+Costa Coffee,Bexley,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.3,172.0,"Unit 3, Next, TOWER RETAIL PARK, Crayford Road, Dartford",51.45104199999999,0.180797
+Shell,Bexley,"['gas_station', 'car_wash', 'meal_delivery', 'convenience_store', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.1,100.0,"510 Blackfen Road, Sidcup",51.44774869999999,0.1167906
+Luso Flavour Cafe & Deli,Bexley,"['cafe', 'food', 'point_of_interest', 'establishment']",4.8,172.0,"9 Welling High Street, Welling",51.4618917,0.1132583
+Costa Coffee,Bexley,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,115.0,"28, Embassy Court, Welling",51.46199,0.11016
+Cafe Deluxe,Bexley,"['cafe', 'food', 'point_of_interest', 'establishment']",4.7,199.0,"6 Bellegrove Road, Welling",51.4627016,0.107036
+Costa Coffee,Bexley,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,212.0,"19 Blackfen Road, Sidcup",51.4503902,0.1034904
+Costa Coffee,Bexley,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.3,308.0,"Unit 6, Riverside Shopping Centre, 21A Town Square, Erith",51.480319,0.1805111
+Cafe Concerto Ltd,Bexley,"['cafe', 'food', 'point_of_interest', 'establishment']",3.8,19.0,"Sidcup Railway Station, Sidcup",51.433904,0.104067
+Ace Cafe London,Brent,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,5501.0,"Ace Corner, North Circular Road, London",51.5413119,-0.277825
+Abbey Point Hotel,Brent,"['cafe', 'lodging', 'food', 'point_of_interest', 'establishment']",4.3,399.0,"300-302 Twyford Abbey Road, London",51.5349659,-0.2754636
+Asda Park Royal Superstore,Brent,"['supermarket', 'gas_station', 'atm', 'pharmacy', 'cafe', 'clothing_store', 'grocery_or_supermarket', 'finance', 'store', 'food', 'point_of_interest', 'health', 'establishment']",3.5,1045.0,"2-20 Western Road, London",51.52781,-0.2698899999999999
+Asda Wembley Superstore,Brent,"['supermarket', 'gas_station', 'atm', 'pharmacy', 'cafe', 'clothing_store', 'grocery_or_supermarket', 'finance', 'store', 'food', 'point_of_interest', 'health', 'establishment']",3.7,1202.0,"Forty Lane, Wembley",51.56479119999999,-0.2755593
+Caffè Nero,Brent,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.2,465.0,"27 St Anns Road, Harrow",51.5811242,-0.3352072
+Patisserie Patchi,Brent,"['cafe', 'bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,2723.0,"28 Abbey Road, London",51.5326775,-0.2750395
+Amouage Lounge,Brent,"['cafe', 'night_club', 'bakery', 'store', 'food', 'bar', 'point_of_interest', 'establishment']",3.9,151.0,"32-34 Cricklewood Broadway, London",51.5532854,-0.2110543
+New Atlas Cafe,Brent,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.7,115.0,"New, Atlas Cafe, 69-71 Craven Park Road, London",51.53942640000001,-0.2527655999999999
+Norman’s Cafe,Brent,"['cafe', 'food', 'point_of_interest', 'establishment']",4.4,62.0,"263 Hool Close, London",51.5830734,-0.2633904
+Workmans Cafe London,Brent,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,109.0,"368 High Road, London",51.5492159,-0.2421223
+Starbucks Coffee,Brent,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.9,444.0,"Engineers Way, Wembley",51.5587657,-0.2819752
+Treatz Dessert Parlour Wembley,Brent,"['cafe', 'bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.0,581.0,"Designer Outlet, Unit 5a London, Wembley Park Boulevard, Wembley",51.557095,-0.2826485
+Chaboba,Brent,"['cafe', 'food', 'point_of_interest', 'establishment']",4.2,341.0,"20 Wembley Park Boulevard, London",51.5574209,-0.2842227000000001
+Costa Coffee,Brent,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.2,768.0,"Unit 49, London Designer Outlet, Wembley Park Boulevard, Wembley",51.55669,-0.28339
+Costa Coffee,Brent,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.2,316.0,"7 Olympic Way, Wembley, London",51.561082,-0.2791689999999999
+Costa Coffee,Brent,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.3,350.0,"19 Bridge Road, Wembley Park, Wembley",51.564592,-0.277879
+CerbulRomanesc.uk,Brent,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.0,600.0,"414 High Road, Wembley",51.5537699,-0.2912632
+Creams Cafe Wembley,Brent,"['cafe', 'bakery', 'meal_takeaway', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.8,714.0,"Central Shopping Centre, 455 High Road, Wembley",51.55224049999999,-0.2965288
+Wild Bean Cafe,Brent,"['cafe', 'convenience_store', 'store', 'food', 'point_of_interest', 'establishment']",1.0,1.0,"2 Blackbird Hill, Wembley",51.5650114,-0.2644175
+bp,Brent,"['gas_station', 'atm', 'car_wash', 'convenience_store', 'cafe', 'finance', 'store', 'food', 'point_of_interest', 'establishment']",2.9,32.0,"2 Blackbird Hill, Wembley",51.56491,-0.26427
+Costa Coffee,Bromley,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.1,749.0,"33-34 Market Square, Bromley",51.405825,0.015281
+Costa Coffee,Bromley,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.2,357.0,"194-202 High Street, Beckenham",51.40685,-0.0282
+Caffè Nero,Bromley,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.4,231.0,"12 High Street, Chislehurst",51.4179858,0.0679893
+Costa Coffee,Bromley,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.2,260.0,"51 Station Approach, Hayes, Bromley",51.376243,0.011273
+Costa Coffee,Bromley,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",3.9,456.0,"Unit 28, The Glades Shopping Centre, Bromley",51.4037,0.016433
+Krispy Kreme Bromley,Bromley,"['cafe', 'bakery', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",4.2,75.0,"Kiosk 98 The Glades Shopping Centre, Bromley",51.40510380000001,0.0164632
+Rendezvous Caffe,Bromley,"['cafe', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",4.6,402.0,"94 High Street, Beckenham",51.4080039,-0.0255196
+Cafe Giardino - Bromley,Bromley,"['cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.1,875.0,"High Street, Bromley",51.4043845,0.0168914
+Creams Cafe Bromley,Bromley,"['meal_takeaway', 'cafe', 'bakery', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",4.1,689.0,"12 Elmfield Road, Bromley",51.4025676,0.0164888
+Caffè Nero,Bromley,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.0,741.0,"The Glades Shopping Centre, High Street, Bromley",51.4027547,0.0156025
+Unico Gelato & Caffé,Bromley,"['cafe', 'bakery', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",4.6,633.0,"75 High Street, Bromley",51.40229420000001,0.0158968
+Pret a Manger,Bromley,"['cafe', 'bar', 'bakery', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",3.8,283.0,"86 High Street, Bromley",51.4028644,0.0150561
+Stonehenge Cafe,Bromley,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.2,309.0,"161 High Street, Bromley",51.4053949,0.0149449
+Caffè Nero,Bromley,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.2,262.0,"12-14 High Street, Bromley",51.4000539,0.0168009
+Wild Bean Cafe,Bromley,"['cafe', 'convenience_store', 'point_of_interest', 'food', 'store', 'establishment']",,,"133-135 Widmore Road, Bromley",51.40689620000001,0.0284365
+Chaplin’s Café,Bromley,"['cafe', 'bakery', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",4.2,64.0,"171 Widmore Road, Bromley",51.406282,0.03289
+Twins Cafe Bromley,Bromley,"['cafe', 'point_of_interest', 'food', 'establishment']",4.7,129.0,"48 Chatterton Road, Bromley",51.39197739999999,0.03589150000000001
+Costa Coffee,Bromley,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.1,190.0,"147-151 Westmoreland Road, Bromley",51.392181,0.001099
+Shell,Bromley,"['gas_station', 'convenience_store', 'cafe', 'meal_delivery', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",4.0,90.0,"96A Bromley Hill, Bromley",51.4183057,0.001848
+Ted's Coffee Shop,Bromley,"['cafe', 'point_of_interest', 'food', 'establishment']",4.9,64.0,"227 Southborough Lane, Bromley",51.3900669,0.050858
+Generator London,Camden,"['cafe', 'lodging', 'food', 'bar', 'point_of_interest', 'establishment']",3.7,4371.0,"37 Tavistock Place, London",51.52620449999999,-0.124825
+The Wesley,Camden,"['cafe', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.9,1567.0,"81-103 Euston Street, London",51.5266402,-0.135689
+The Rubens at the Palace,Camden,"['cafe', 'lodging', 'restaurant', 'food', 'bar', 'point_of_interest', 'establishment']",4.5,1816.0,"39 Buckingham Palace Road, London",51.49826530000001,-0.1434998
+Park Room,Camden,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,217.0,"86-90 Park Lane, London",51.5098444,-0.155529
+BFI IMAX,Camden,"['movie_theater', 'cafe', 'store', 'food', 'bar', 'point_of_interest', 'establishment']",4.6,6414.0,"Waterloo, 1 Charlie Chaplin Walk South Bank",51.50487889999999,-0.1136318
+The Bermondsey Square Hotel,Camden,"['cafe', 'lodging', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,760.0,"9 Bermondsey Square, London",51.497719,-0.08131559999999999
+The Wolseley,Camden,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.4,6051.0,"160 Piccadilly, St. James's, London",51.5074427,-0.1409233
+The Ivy,Camden,"['cafe', 'restaurant', 'food', 'bar', 'point_of_interest', 'establishment']",4.4,3500.0,"1-5 West Street, London",51.51286029999999,-0.128045
+Rich Mix,Camden,"['movie_theater', 'art_gallery', 'cafe', 'food', 'point_of_interest', 'establishment']",4.5,1972.0,"35-47 Bethnal Green Road, London",51.5243955,-0.07319679999999998
+The Pilgrm Hotel Restaurant and Bar Paddington,Camden,"['night_club', 'cafe', 'lodging', 'food', 'bar', 'point_of_interest', 'establishment']",4.0,919.0,"25 London Street, London",51.51576679999999,-0.1744445
+ODEON Tottenham Court Rd,Camden,"['movie_theater', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.7,1572.0,"Central Cross, 30 Tottenham Court Road, London",51.5183526,-0.1324275
+L'Escargot Restaurant,Camden,"['cafe', 'restaurant', 'food', 'bar', 'point_of_interest', 'establishment']",4.4,855.0,"48 Greek Street, London",51.5139706,-0.1309972
+Wigmore Hall,Camden,"['cafe', 'restaurant', 'food', 'bar', 'point_of_interest', 'establishment']",4.8,1260.0,"36 Wigmore Street, London",51.516608,-0.1481362
+Monmouth Coffee Company,Camden,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.5,2086.0,"2 Park Street, London",51.5055334,-0.09140690000000001
+ODEON Luxe West End,Camden,"['movie_theater', 'cafe', 'store', 'food', 'bar', 'point_of_interest', 'establishment']",4.6,340.0,"38a Leicester Square, London",51.50992159999999,-0.1301796
+The British Library,Camden,"['library', 'tourist_attraction', 'cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,2627.0,"96 Euston Road, London",51.52997169999999,-0.1276759
+Foyles,Camden,"['book_store', 'cafe', 'electronics_store', 'home_goods_store', 'store', 'food', 'point_of_interest', 'establishment']",4.7,10991.0,"107 Charing Cross Road, London",51.51430149999999,-0.1299049
+Curzon Soho,Camden,"['movie_theater', 'cafe', 'restaurant', 'food', 'bar', 'point_of_interest', 'establishment']",4.5,1583.0,"99 Shaftesbury Avenue, London",51.5127004,-0.1305849
+The Table Café,Camden,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.3,1979.0,"83 Southwark Street, London",51.5054844,-0.0998167
+Swan London,Camden,"['restaurant', 'cafe', 'food', 'bar', 'point_of_interest', 'establishment']",4.3,3032.0,"21 New Globe Walk, Bankside, London",51.5082418,-0.09652360000000001
+The Tram Stop,Croydon,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.3,319.0,"231 Lower Addiscombe Road, Croydon",51.38025599999999,-0.0733924
+bp,Croydon,"['gas_station', 'convenience_store', 'car_wash', 'atm', 'cafe', 'finance', 'store', 'food', 'point_of_interest', 'establishment']",2.6,54.0,"3 Mitcham Road, Croydon",51.3788072,-0.1109563
+Pavilion @ BedZED,Croydon,"['cafe', 'food', 'point_of_interest', 'establishment']",4.0,51.0,"24A Sandmartin Way, Hackbridge, Wallington",51.3831545,-0.1565439
+Cafe Del Mar,Croydon,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.7,70.0,"48 Stafford Road, Wallington",51.35851369999999,-0.1452875
+Waddon Cafe,Croydon,"['cafe', 'food', 'point_of_interest', 'establishment']",4.3,90.0,"445 Purley Way, Croydon",51.36465010000001,-0.1179416
+Today's Cafe,Croydon,"['cafe', 'food', 'point_of_interest', 'establishment']",4.7,348.0,"267 Brighton Road, South Croydon",51.3538806,-0.09754410000000001
+Al Amora Lounge,Croydon,"['cafe', 'food', 'point_of_interest', 'establishment']",4.4,165.0,"78 Windmill Road, Croydon",51.385601,-0.09990729999999999
+Yeha Noha Cafe Bar,Croydon,"['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment']",4.6,206.0,"Yeha Noha Cafe, 19-21 Station Road, London",51.397839,-0.07568289999999998
+English & Continental,Croydon,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,56.0,"1074, Whitgift Centre, 21 North End, Croydon",51.37550960000001,-0.0993801
+Pure Foods,Croydon,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",5.0,2.0,"4 Coomber Way, Croydon",51.38683090000001,-0.1344001
+Mayday Cafe,Croydon,"['cafe', 'food', 'point_of_interest', 'establishment']",4.3,75.0,"355 London Road, Croydon",51.3855279,-0.1100945
+Classic Cafe Croydon,Croydon,"['cafe', 'food', 'point_of_interest', 'establishment']",3.3,108.0,"1019, Whitgift Centre, 21 North End, Croydon",51.37614199999999,-0.1026035
+Massarella Catering Co,Croydon,"['cafe', 'food', 'point_of_interest', 'establishment']",4.0,3.0,"1 Drury Crescent, Croydon",51.3744896,-0.1170561
+Crushed Bean,Croydon,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.8,305.0,"81 High Street, Croydon",51.37113649999999,-0.1001019
+The Ludoquist - Board Game Cafe Bar,Croydon,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.8,1254.0,"63-67 High Street, Croydon",51.3715824,-0.1003029
+Caffè Nero,Croydon,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.3,454.0,"44 George Street, Croydon",51.37387829999999,-0.09842200000000001
+Costa Coffee,Croydon,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.3,174.0,"Ground Floor, 11, Bath & Body Works, 19 North End, Croydon",51.374394,-0.101177
+Caffè Nero,Croydon,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.1,497.0,"93 George Street, East, Croydon",51.37465539999999,-0.0944922
+Bao Bao Taiwanese Street Food,Croydon,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.7,644.0,"Unit 44-45, Boxpark, 99 George Street, Croydon",51.375038,-0.09413819999999999
+Costa Coffee,Croydon,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.9,143.0,"1 Station, Station Approach, Croydon",51.375025,-0.093171
+Watermans Arts Centre,Ealing,"['movie_theater', 'art_gallery', 'cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,624.0,"40 High Street, Brentford",51.4856828,-0.298389
+The National Archives,Ealing,"['book_store', 'park', 'cafe', 'storage', 'store', 'travel_agency', 'food', 'point_of_interest', 'establishment']",4.5,237.0,"Bessant Drive, Richmond",51.4811031,-0.2793934
+Shell,Ealing,"['gas_station', 'convenience_store', 'meal_delivery', 'cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.6,51.0,"882 Great West Road, Isleworth",51.48344400000001,-0.328037
+Piccola Italia Ealing,Ealing,"['cafe', 'bar', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,561.0,"21 The Green, London",51.51074070000001,-0.3052565
+Caffè Nero,Ealing,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.3,371.0,"51 New Broadway, London",51.51271609999999,-0.3071020999999999
+The Original Maids of Honour,Ealing,"['cafe', 'food', 'point_of_interest', 'establishment']",4.3,1010.0,"288 Kew Road, Richmond",51.48080189999999,-0.2884071
+Caffe Nero,Ealing,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.2,378.0,"386 Chiswick High Road, London",51.49270509999999,-0.2647684
+Chiswick House and Gardens Trust,Ealing,"['park', 'tourist_attraction', 'cafe', 'food', 'point_of_interest', 'establishment']",4.6,937.0,"Chiswick House, London",51.4838077,-0.2586959999999999
+Bagel & Shake Ealing,Ealing,"['bakery', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.6,266.0,"46-48 Drayton Green Road, London",51.513111,-0.3194325000000001
+Costa Coffee,Ealing,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.8,225.0,"Ealing Hospital, Uxbridge Road, Southall",51.50735,-0.34654
+Costa Coffee,Ealing,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.0,228.0,"437 Uxbridge Road, London",51.50998,-0.28748
+Brentford Fountain Leisure Centre,Ealing,"['cafe', 'food', 'point_of_interest', 'establishment']",3.5,1081.0,"658 Chiswick High Road, Brentford, London",51.4908641,-0.2850528000000001
+Costa Coffee,Ealing,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.1,741.0,"Unit 14, Westway Cross Shopping Park, Greenford",51.54279,-0.33946
+Arabella sweet,Ealing,"['cafe', 'food', 'point_of_interest', 'establishment']",5.0,1.0,"Park Royal Business Centre, 9-17 Park Royal Road, London",51.52649329999999,-0.2662818999999999
+Boof Restaurant,Ealing,"['meal_delivery', 'cafe', 'bar', 'meal_takeaway', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,810.0,"57 New Broadway, London",51.512618,-0.307351
+Artisan Coffee School,Ealing,"['cafe', 'food', 'point_of_interest', 'establishment']",4.7,265.0,"32 New Broadway, London",51.5131139,-0.3066972000000001
+ODEON Luxe Lee Valley,Enfield,"['movie_theater', 'cafe', 'bar', 'food', 'store', 'point_of_interest', 'establishment']",4.3,3687.0,"Lee Valley, Edmonton, Pickett's Lock Lane, London",51.6331468,-0.0372402
+bp,Enfield,"['gas_station', 'car_wash', 'atm', 'cafe', 'finance', 'food', 'point_of_interest', 'establishment']",2.9,19.0,"Bullsmoor Lane, Enfield",51.67990999999999,-0.04832
+Costa Coffee,Enfield,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.0,110.0,"288 High Street, Enfield",51.64781300000001,-0.04783
+Krispy Kreme Enfield,Enfield,"['bakery', 'cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.4,2623.0,"492 Great Cambridge Road, Enfield",51.65235,-0.05934000000000001
+Costa Coffee,Enfield,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.0,249.0,26 Palace Gardens Shopping Cen,51.651189,-0.083939
+Cafe Venezia,Enfield,"['cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.6,91.0,"8 Chaseville Parade, Chaseville Park Road, London",51.643839,-0.113314
+Occo Cafe,Enfield,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.4,18.0,"Market Chambers, Church Street, Enfield",51.65224389999999,-0.0828451
+Creams Cafe Enfield,Enfield,"['bakery', 'cafe', 'meal_takeaway', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.0,897.0,"5-6 Savoy Parade, Enfield",51.6522106,-0.07687859999999998
+Caffè Nero,Enfield,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.9,516.0,"Shopping Centre, palace Exchange, 22 The Town, Enfield",51.6514579,-0.08295250000000001
+Leo's Coffee Shop,Enfield,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.7,27.0,"Platform 1, Enfield Chase Railway Station, Windmill Hill, Enfield",51.6532102,-0.0908163
+Zippola,Enfield,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.5,299.0,"Zippola, Live to Eat, 93 Lancaster Road, Enfield",51.66408740000001,-0.08183230000000001
+Starbucks Coffee,Enfield,"['cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",3.6,82.0,"208 Southbury Road, Enfield",51.6501224,-0.0607296
+Costa Coffee,Enfield,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.1,309.0,"Unit 1, Next Home, Enfield Retail Park, Crown Road, Enfield",51.65448,-0.05898
+Stantons Coffee House,Enfield,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.8,93.0,"7 Queen Anne's Place, Enfield",51.64181199999999,-0.0699637
+Shell,Enfield,"['gas_station', 'convenience_store', 'car_wash', 'meal_delivery', 'cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.1,112.0,"790 Great Cambridge Road, Enfield",51.66362700000001,-0.0568554
+Caffe Napoli,Enfield,"['cafe', 'food', 'point_of_interest', 'establishment']",,,"79 Lynmouth Avenue, Enfield",51.6377731,-0.0667058
+Costa Coffee,Enfield,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,253.0,"163 Hertford Road, Enfield",51.6579,-0.046995
+The Larder,Enfield,"['cafe', 'bar', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.6,94.0,"26 The Green, London",51.6342671,-0.1028123
+Coffee Break,Enfield,"['cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.6,553.0,"792 Green Lanes, London",51.63175500000001,-0.09455590000000003
+ODEON Greenwich,Greenwich,"['movie_theater', 'cafe', 'bar', 'store', 'food', 'point_of_interest', 'establishment']",4.1,4139.0,"Bugsby's Way, London",51.49059219999999,0.0127925
+Costa Coffee - Woolwich DLR,Greenwich,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.7,507.0,"1 Woolwich New Road, London",51.490332,0.0693795
+Costa Coffee,Greenwich,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.2,225.0,"Unit C, NEXT, 4 Brocklebank Road, London",51.49078,0.02343
+The Garden Community Cafe,Greenwich,"['cafe', 'food', 'point_of_interest', 'establishment']",4.7,114.0,"7 Cundy Road, London",51.51108729999999,0.0328802
+Charlton House & Gardens,Greenwich,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,678.0,"Charlton Road, London",51.48059880000001,0.03717220000000001
+East Greenwich Pleasaunce,Greenwich,"['park', 'cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.6,325.0,"10 Chevening Road, London",51.484675,0.0137639
+Asda Beckton Superstore,Greenwich,"['supermarket', 'gas_station', 'atm', 'cafe', 'pharmacy', 'grocery_or_supermarket', 'clothing_store', 'finance', 'health', 'store', 'food', 'point_of_interest', 'establishment']",3.6,1002.0,"Tollgate Road, Beckton",51.515668,0.05826199999999999
+Marks and Spencer,Greenwich,"['department_store', 'cafe', 'supermarket', 'convenience_store', 'grocery_or_supermarket', 'clothing_store', 'store', 'food', 'point_of_interest', 'establishment']",4.2,926.0,"115 Eltham High Street, London",51.4509354,0.0549693
+Buenos Aires Cafe,Greenwich,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.4,568.0,"17 Royal Parade, London",51.46716559999999,0.007254000000000001
+Costa Coffee,Greenwich,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.2,278.0,"41 Tranquil Vale, London",51.467399,0.007877000000000002
+The Coffee Lounge,Greenwich,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,514.0,"Equitable House, 29 Greens End, London",51.4904417,0.0682417
+Roz Cafe,Greenwich,"['cafe', 'food', 'point_of_interest', 'establishment']",4.3,82.0,"1 Pier Road, London",51.50087869999999,0.06309429999999999
+Moca cafe,Greenwich,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.6,236.0,"10 Old Dover Road, London",51.476733,0.0209958
+Tesco Cafe,Greenwich,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.7,56.0,"Grand Depot Road, London",51.48919209999999,0.06624929999999998
+First Choice Cafe And Restaurant,Greenwich,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,460.0,"51 Hare Street, London",51.49348,0.06337899999999999
+The Yoga Space London,Greenwich,"['cafe', 'gym', 'health', 'store', 'food', 'point_of_interest', 'establishment']",4.8,63.0,"Norton House, Duke of Wellington Avenue, London",51.4946502,0.06653479999999998
+Menagerie Cafe,Greenwich,"['cafe', 'food', 'point_of_interest', 'establishment']",3.4,11.0,"Unit 9, The I O Centre, Skeffington Street, London",51.4920267,0.07648390000000001
+Arts Cafe,Greenwich,"['cafe', 'food', 'point_of_interest', 'establishment']",4.3,70.0,"Thames-Side Studios Gallery, Harrington Way, Warspite Road, London",51.4946119,0.04484590000000001
+The Plumstead Pantry SE18,Greenwich,"['restaurant', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.7,161.0,"16 Warwick Terrace, London",51.48180379999999,0.0836855
+The Chef House kitchen,Greenwich,"['cafe', 'food', 'point_of_interest', 'establishment']",4.7,124.0,"Westminster Industrial Estate, 19 Bowater Road (unit 76 In, London",51.49396369999999,0.0421675
+Cafe 1001,Hackney,"['cafe', 'bar', 'food', 'point_of_interest', 'establishment']",4.2,953.0,"91 Brick Lane, London",51.52093410000001,-0.0719882
+Ottolenghi Islington,Hackney,"['cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.4,2114.0,"287 Upper Street, London",51.5397504,-0.1022929
+Allpress Espresso Bar Shoreditch,Hackney,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.4,611.0,"58 Redchurch Street, London",51.52440099999999,-0.07426039999999999
+Wilton's Music Hall,Hackney,"['tourist_attraction', 'cafe', 'bar', 'food', 'point_of_interest', 'establishment']",4.8,2092.0,"1 Graces Alley, London",51.51070129999999,-0.0668967
+Costa Coffee,Hackney,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.1,422.0,"9 Eldon Street, Broadgate, London",51.518699,-0.084719
+The Zetter Clerkenwell,Hackney,"['cafe', 'lodging', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.4,970.0,"49-50 Saint John's Square, London",51.5230962,-0.1038718
+La Divina Italian Restaurant,Hackney,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,1005.0,"134 Upper Street, London",51.5392687,-0.1025622
+Cafe OTO,Hackney,"['cafe', 'food', 'point_of_interest', 'establishment']",4.6,625.0,"18-22 Ashwin Street, London",51.54694199999999,-0.07477230000000001
+The Breakfast Club Angel,Hackney,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,2311.0,"31 Camden Passage, London",51.5350988,-0.103734
+Manicomio City Restaurant,Hackney,"['cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.2,398.0,"6 Gutter Lane, London",51.5155225,-0.0954193
+Strongroom Bar,Hackney,"['bar', 'cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.2,2004.0,"120-124 Curtain Road, London",51.5259464,-0.08005219999999999
+Bottega Prelibato Restaurant,Hackney,"['cafe', 'bar', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.1,681.0,"43-45 Rivington Street, London",51.52612739999999,-0.08142909999999999
+Paper Dress Vintage,Hackney,"['cafe', 'night_club', 'home_goods_store', 'bar', 'clothing_store', 'food', 'store', 'point_of_interest', 'establishment']",4.6,498.0,"352a Mare Street, London",51.5473541,-0.05467259999999999
+Bike Shed Moto Co.,Hackney,"['cafe', 'hair_care', 'bar', 'clothing_store', 'health', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.7,3668.0,"384 Old Street, London",51.5271434,-0.0788825
+Caravan Exmouth Market Restaurant,Hackney,"['restaurant', 'cafe', 'bar', 'food', 'store', 'point_of_interest', 'establishment']",4.2,1264.0,"11-13 Exmouth Market, London",51.52546299999999,-0.1100856
+Gallery Cafe,Hackney,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.3,940.0,"St. Margarets House Settlement, 21 Old Ford Road, Bethnal Green, London",51.52987400000001,-0.05447
+Gallipoli Restaurant,Hackney,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.4,1420.0,"119 Upper Street, London",51.5385288,-0.1026159
+Costa Coffee,Hackney,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.1,279.0,"46 Cowcross Street, London",51.519943,-0.105043
+Med's Cafe,Hackney,"['cafe', 'bakery', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.2,633.0,"37 Burdett Road, London",51.522864,-0.03397489999999999
+London Lodge Hotel,Hammersmith and Fulham,"['night_club', 'cafe', 'clothing_store', 'lodging', 'store', 'restaurant', 'food', 'bar', 'point_of_interest', 'establishment']",4.2,365.0,"134-136 Lexham Gardens, London",51.495723,-0.19496
+Afternoon Tea at The Milestone Hotel,Hammersmith and Fulham,"['cafe', 'food', 'point_of_interest', 'establishment']",4.6,92.0,"1-3 Kensington Court, London",51.50200719999999,-0.1866267
+Bluebird,Hammersmith and Fulham,"['night_club', 'cafe', 'restaurant', 'food', 'bar', 'point_of_interest', 'establishment']",4.2,3098.0,"350 King's Road, London",51.4847353,-0.1755033
+Serpentine Gallery,Hammersmith and Fulham,"['art_gallery', 'tourist_attraction', 'cafe', 'museum', 'food', 'point_of_interest', 'establishment']",4.4,1635.0,London,51.50462700000001,-0.175073
+The Orangery Restaurant,Hammersmith and Fulham,"['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment']",3.9,498.0,"Kensington Palace Gardens, London",51.5065855,-0.1877335
+"Dukes Meadows Golf, Tennis & Ski",Hammersmith and Fulham,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.3,730.0,"Dan Mason Drive, London",51.472398,-0.2634714
+La Piccola Deli Pasticceria,Hammersmith and Fulham,"['cafe', 'bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.6,561.0,"La Piccola Deli Pasticceria, 270 Kensington High Street, London",51.4986294,-0.2008059
+The Hummingbird Bakery,Hammersmith and Fulham,"['bakery', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.1,297.0,"133 Portobello Road, London",51.5140807,-0.2038636
+Fulham Palace,Hammersmith and Fulham,"['museum', 'tourist_attraction', 'cafe', 'park', 'food', 'point_of_interest', 'establishment']",4.5,1682.0,"Bishop's Avenue, London",51.4707092,-0.2159675
+The Hummingbird Bakery - South Kensington,Hammersmith and Fulham,"['bakery', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.0,268.0,"47 Old Brompton Road, London",51.4933004,-0.1754869
+ODEON Luxe Putney,Hammersmith and Fulham,"['movie_theater', 'cafe', 'store', 'food', 'bar', 'point_of_interest', 'establishment']",4.4,1192.0,"26 Putney High Street, London",51.4652107,-0.2142387
+Betty Blythe,Hammersmith and Fulham,"['cafe', 'food', 'point_of_interest', 'establishment']",4.2,170.0,"73 Blythe Road, London",51.497602,-0.2175909
+Coco Momo,Hammersmith and Fulham,"['cafe', 'restaurant', 'food', 'bar', 'point_of_interest', 'establishment']",4.3,1027.0,"25 Gloucester Road, South Kensington, London",51.4981216,-0.1835399
+The Magic Cafe,Hammersmith and Fulham,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.4,54.0,"359 Fulham Palace Road, London",51.47506300000001,-0.21423
+Le Pain Quotidien,Hammersmith and Fulham,"['restaurant', 'cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment']",3.9,1783.0,"15-17 Exhibition Road, London",51.4950084,-0.1736302
+The Prince Edward,Hammersmith and Fulham,"['restaurant', 'cafe', 'food', 'bar', 'point_of_interest', 'establishment']",4.3,914.0,"73 Prince's Square, London",51.5129205,-0.1935085
+Putney Leisure Centre,Hammersmith and Fulham,"['gym', 'cafe', 'school', 'food', 'point_of_interest', 'health', 'establishment']",3.7,723.0,"Dryburgh Road, London",51.46365619999999,-0.2286599
+Caffè Concerto Kensington,Hammersmith and Fulham,"['cafe', 'bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,1992.0,"88 Kensington High Street, London",51.5018036,-0.191723
+Stonebridge Lock Waterside Cafe (Dog cafe!),Haringey,"['cafe', 'food', 'point_of_interest', 'establishment']",4.7,285.0,"Watermead Way, London",51.5976247,-0.0502964
+Autograf Restaurant,Haringey,"['meal_delivery', 'cafe', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,943.0,"488 West Green Road, Duckett's Green, London",51.58778710000001,-0.099087
+Park Theatre,Haringey,"['cafe', 'bar', 'food', 'point_of_interest', 'establishment']",4.6,1179.0,"13 Clifton Terrace, London",51.5657146,-0.1085131
+Costa Coffee,Haringey,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.0,295.0,"1 The Broadway, London",51.57886,-0.12408
+Costa Coffee,Haringey,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,202.0,"66 Highgate High Street, London",51.57106,-0.14809
+Asda Living Tottenham,Haringey,"['home_goods_store', 'cafe', 'clothing_store', 'food', 'store', 'point_of_interest', 'establishment']",4.1,2069.0,"Unit 4a, Tottenham Hale Retail Park, Broad Lane, London",51.58753,-0.06111999999999999
+The Haberdashery,Haringey,"['cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.5,490.0,"22 Middle Lane, London",51.5812225,-0.1235522
+ArtHouse Crouch End,Haringey,"['movie_theater', 'cafe', 'food', 'point_of_interest', 'establishment']",4.6,527.0,"159A Tottenham Lane, London",51.5818634,-0.12003
+Aladdin's Vintage Furniture & Cafe,Haringey,"['cafe', 'moving_company', 'storage', 'furniture_store', 'home_goods_store', 'food', 'store', 'point_of_interest', 'establishment']",4.6,101.0,"1 Hazellville Road, London",51.5695455,-0.1243871
+The Archway Tavern,Haringey,"['cafe', 'bar', 'food', 'point_of_interest', 'establishment']",4.2,342.0,"1 Navigator Square, Archway, London",51.5659627,-0.1349262
+Costa Coffee,Haringey,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.9,1152.0,"Unit E, Tottenham Hale Retail Park, London",51.58758400000001,-0.063354
+Costa Coffee,Haringey,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.7,328.0,"Unit 4C, The Arena Shopping Pa, London",51.576439,-0.097673
+Jenny's Cafe & Restaurant N10,Haringey,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,440.0,"237 Muswell Hill Broadway, London",51.5915429,-0.1430246
+Barista Coffee House,Harrow,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.5,54.0,"5, Station Forecourt, Station Road, London, Edgware",51.6136876,-0.2755771999999999
+Costa Coffee,Harrow,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.2,250.0,"153 Field End Road, Pinner",51.578639,-0.399112
+Caffè Nero,Harrow,"['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",3.9,409.0,"Unit 2, 67-70 Station Road, Edgware",51.61307679999999,-0.2772073
+Costa Coffee,Harrow,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.1,498.0,"250 / 252 Northolt Road, South Harrow, Harrow",51.5641,-0.354526
+Imperial Cafe,Harrow,"['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",4.7,306.0,"238 Imperial Drive, Harrow",51.5761555,-0.3702117
+Sunrise Cafe,Harrow,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.4,123.0,"343 High Road, Harrow",51.6039171,-0.339743
+Randalls Coffee House,Harrow,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.2,90.0,"284B Station Road, Harrow",51.58203409999999,-0.3324514
+Costa,Harrow,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.1,302.0,"24-26 Church Road, Stanmore",51.6172742,-0.3120828
+Costa Coffee,Harrow,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",3.8,26.0,"2, Tesco, Harrow",51.58589,-0.33413
+Red Brick Cafe,Harrow,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.4,49.0,"38-40 High Street, Harrow",51.5943109,-0.3348485
+Rumble Tumble Harrow Ltd,Harrow,"['cafe', 'school', 'food', 'point_of_interest', 'establishment']",4.0,372.0,"Ground Floor, Bruce House, Lower, Sovereign Place, Harrow",51.5850435,-0.3310073
+Costa Coffee,Harrow,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.2,410.0,"112-114, Wealdstone, High Street, Harrow",51.5966,-0.335204
+Costa Coffee,Harrow,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.2,652.0,"76-80 St Anns Road, Harrow",51.58231,-0.3366599999999999
+Mooboo,Harrow,"['cafe', 'food', 'point_of_interest', 'establishment']",4.4,180.0,"St Georges Shopping Centre St Ann's Road, Harrow",51.5815078,-0.3393113
+Bru coffee & more,Harrow,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.2,753.0,"Square 1, Bond Apartments, College Road, Harrow",51.5799485,-0.3357646
+Treats,Harrow,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",3.9,18.0,"College Road, Harrow",51.58003069999999,-0.3374615
+Caffè Nero,Harrow,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.1,70.0,"on the Hill Station, Station Approach, Harrow",51.579555,-0.3368828
+The Moat Cafe,Harrow,"['cafe', 'food', 'point_of_interest', 'establishment']",4.0,108.0,"Pinner View, Harrow",51.59404749999999,-0.354366
+Costa Coffee,Harrow,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.4,330.0,"8 Warwick Parade Kenton Lane, Harrow",51.60069999999999,-0.3180999999999999
+Costa Coffee,Havering,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.0,136.0,"Bryant Avenue, Romford",51.5936,0.21781
+Cosy Cafe,Havering,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,198.0,"197 Ardleigh Green Road, Hornchurch",51.5841228,0.22022
+Shell,Havering,"['gas_station', 'convenience_store', 'car_wash', 'meal_delivery', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",3.8,82.0,"Eastern Avenue East, Romford",51.59127179999999,0.1790432
+Costa Coffee,Havering,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",4.1,207.0,"83 Main Road, Romford",51.586734,0.200045
+bp,Havering,"['gas_station', 'car_wash', 'atm', 'cafe', 'finance', 'food', 'point_of_interest', 'establishment']",4.5,12.0,"132 Hornchurch Road, Hornchurch",51.5650117,0.2036263
+Costa Coffee,Havering,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",3.9,108.0,"NEXT, Gallows Corner, Gallows Corner Retail Park, Colchester Road, Romford",51.592862,0.215658
+ODEON Uxbridge,Hillingdon,"['movie_theater', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.1,2447.0,"302, The chimes shopping centre, Uxbridge",51.5450527,-0.4756154
+"The Black Horse Pub & Restaurant, Iver Heath",Hillingdon,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,729.0,"95 Slough Road, Iver",51.5373325,-0.5156964999999999
+Costa Coffee,Hillingdon,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.9,381.0,"100 - 102 High Street, Ruislip",51.57409999999999,-0.424681
+Costa Coffee,Hillingdon,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.1,974.0,"51-52 High Street, Uxbridge",51.547418,-0.48107
+Pret A Manger,Hillingdon,"['cafe', 'bakery', 'bar', 'health', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.1,291.0,"The Pavilions Shopping Centre, Grainge's Yard, Uxbridge",51.5460697,-0.4808929
+Village Bed & Breakfast and Cafe,Hillingdon,"['cafe', 'lodging', 'food', 'point_of_interest', 'establishment']",4.0,3.0,"105 Hillingdon Hill, Uxbridge",51.53536219999999,-0.4608473
+Greggs,Hillingdon,"['bakery', 'cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",3.9,291.0,"148-152 High Street, Uxbridge",51.5467867,-0.4799914
+Lady Marmalade Cafe,Hillingdon,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,136.0,"30 High Street, Uxbridge",51.52251219999999,-0.4812015000000001
+Caffè Nero,Hillingdon,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,621.0,"185-186, The chimes shopping centre, Uxbridge",51.545424,-0.4766446
+Lavazza,Hillingdon,"['cafe', 'food', 'point_of_interest', 'establishment']",2.0,47.0,"5th, The Charter Building, Vine Street, Uxbridge",51.5449865,-0.4793672
+Starbucks Coffee,Hillingdon,"['cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.1,510.0,"High Street, Uxbridge",51.545742,-0.478584
+LAB Coffee Works,Hillingdon,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.6,34.0,"The Charter Building, Charter Place, Uxbridge",51.54548200000001,-0.47927
+Costa Coffee,Hillingdon,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.3,355.0,"172 High Street, Uxbridge",51.546606,-0.4781420000000001
+Creams Cafe Uxbridge,Hillingdon,"['cafe', 'bakery', 'meal_takeaway', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.0,955.0,"61 Belmont Road, Uxbridge",51.54836719999999,-0.4778184000000001
+1966,Hillingdon,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,267.0,"Brunel University London, Kingston Lane, Uxbridge",51.5328974,-0.4735067000000001
+Bertram's Café,Hillingdon,"['cafe', 'food', 'point_of_interest', 'establishment']",4.2,155.0,"95 Oxford Road, Denham, Uxbridge",51.5561294,-0.4913555000000001
+Maison Du Soleil,Hillingdon,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.5,161.0,"25 Swakeleys Road, Ickenham, Uxbridge",51.56463220000001,-0.4453297
+Costa Coffee,Hillingdon,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,78.0,"Trout Road, West Drayton",51.515678,-0.477281
+bp,Hillingdon,"['gas_station', 'atm', 'cafe', 'finance', 'convenience_store', 'food', 'store', 'point_of_interest', 'establishment']",3.5,31.0,"Oxford Road, Uxbridge",51.56826520000001,-0.5047423000000001
+Costa Coffee,Hillingdon,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.4,109.0,"High Street, Iver",51.5201824,-0.505983
+Curzon Richmond,Hounslow,"['movie_theater', 'bar', 'cafe', 'food', 'point_of_interest', 'establishment']",4.5,264.0,"3 Water Lane, Richmond",51.4592363,-0.3070303999999999
+The Eel Pie,Hounslow,"['restaurant', 'bar', 'cafe', 'food', 'point_of_interest', 'establishment']",4.5,977.0,"9-11 Church Street, Twickenham",51.4469808,-0.3265452
+Asda Feltham Superstore,Hounslow,"['supermarket', 'grocery_or_supermarket', 'cafe', 'pharmacy', 'clothing_store', 'health', 'food', 'store', 'point_of_interest', 'establishment']",4.1,4076.0,"Tilley Road, Feltham",51.44573,-0.4115
+Costa Coffee,Hounslow,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,315.0,"36 The Centre, Feltham",51.4464,-0.410527
+Mount Cafe,Hounslow,"['cafe', 'food', 'point_of_interest', 'establishment']",4.2,130.0,"Market Parade, 11 Hampton Road West, Hanworth, Feltham",51.4402074,-0.3869331999999999
+Squire’s Garden Centre,Hounslow,"['pet_store', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.4,2125.0,"Sixth Cross Road, Twickenham",51.4354405,-0.3518239
+Bill's Richmond Restaurant,Hounslow,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,2186.0,"1-3 Hill Rise, Richmond",51.4580509,-0.3054919
+Costa Coffee,Hounslow,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,1150.0,"241 High Street, Hounslow",51.46842,-0.3637400000000001
+Caffe Mamma,Hounslow,"['cafe', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.4,436.0,"110 Kew Road, Richmond",51.4664059,-0.2974021000000001
+Costa Coffee,Hounslow,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.1,348.0,"26-28 London Road, Twickenham",51.447705,-0.328678
+Islamic Integration Community Centre,Hounslow,"['mosque', 'cafe', 'place_of_worship', 'health', 'food', 'store', 'point_of_interest', 'establishment']",4.8,187.0,"531 Staines Road, Hounslow",51.46276229999999,-0.389633
+The Coffee Bean,Hounslow,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.8,53.0,"37B High Street, Twickenham",51.4519645,-0.3577604
+Coffee And Muffins,Hounslow,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",2.7,15.0,"High Street, Hounslow",51.46784390000001,-0.3629304
+Jungle VIP,Hounslow,"['cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.3,496.0,"Unit 5, The Blenheim Centre, Prince Regent Road, Hounslow",51.4706512,-0.3630229
+Wild Bean Cafe,Hounslow,"['cafe', 'convenience_store', 'food', 'store', 'point_of_interest', 'establishment']",2.0,1.0,"481 Great West Road, Hounslow",51.4788863,-0.3617814
+bp,Hounslow,"['gas_station', 'convenience_store', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.3,37.0,"481 Great West Road, Hounslow",51.47901999999999,-0.36188
+Caffè Nero,Hounslow,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.2,1154.0,"231 High Street, Hounslow",51.46853489999999,-0.3631513
+Curzon Bloomsbury,Islington,"['movie_theater', 'cafe', 'bar', 'food', 'point_of_interest', 'establishment']",4.4,992.0,"The Brunswick Centre, London",51.5241103,-0.1231058
+The Breakfast Club Soho,Islington,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,3356.0,"33 D'Arblay Street, London",51.51474080000001,-0.135402
+Scandinavian Kitchen,Islington,"['cafe', 'grocery_or_supermarket', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.6,1814.0,"61 Great Titchfield Street, London",51.5187857,-0.1408642
+Alfies Antique Market,Kensington and Chelsea,"['cafe', 'jewelry_store', 'clothing_store', 'furniture_store', 'home_goods_store', 'food', 'store', 'point_of_interest', 'establishment']",4.3,503.0,"13 - 25 Church Street, London",51.5241255,-0.1688334
+Curzon Mayfair,Kensington and Chelsea,"['movie_theater', 'cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,750.0,"38 Curzon Street, London",51.5065673,-0.1479457
+Brasserie Zédel,Kensington and Chelsea,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,8150.0,"20 Sherwood Street, London",51.5105561,-0.1355974
+Wetherspoons (Victoria Station),Kensington and Chelsea,"['cafe', 'bar', 'food', 'point_of_interest', 'establishment']",3.8,5064.0,"Unit 5 (1st Floor above WHSmith), Victoria Station Concourse, London",51.49507699999999,-0.1443459
+bp,Kingston upon Thames,"['gas_station', 'convenience_store', 'atm', 'cafe', 'finance', 'store', 'food', 'point_of_interest', 'establishment']",3.2,32.0,"Hampton Court Way, East Molesey",51.401305,-0.3433674
+ODEON Kingston,Kingston upon Thames,"['movie_theater', 'cafe', 'bar', 'store', 'food', 'point_of_interest', 'establishment']",4.2,2845.0,"The Rotunda, Clarence Street, Kingston upon Thames",51.41171809999999,-0.299275
+Pembroke Lodge,Kingston upon Thames,"['cafe', 'restaurant', 'store', 'food', 'point_of_interest', 'establishment']",4.6,2561.0,"Richmond Park, Richmond",51.4424628,-0.294509
+River Cafe,Kingston upon Thames,"['cafe', 'food', 'point_of_interest', 'establishment']",4.2,34.0,"35 Cambridge Road, Kingston upon Thames",51.4098927,-0.2889544000000001
+Costa Coffee,Kingston upon Thames,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.9,360.0,"123 High Street, New Malden",51.4001312,-0.2558116
+YMCA Hawker,Kingston upon Thames,"['cafe', 'food', 'gym', 'point_of_interest', 'health', 'establishment']",3.8,92.0,"Lower Ham Road, Kingston upon Thames",51.42685909999999,-0.3091662
+The Terrace Eatery,Kingston upon Thames,"['cafe', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.9,556.0,"6A, Food for Thought, 7 apple Market, Kingston upon Thames",51.4092498,-0.3058121
+World of Golf London,Kingston upon Thames,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.4,1313.0,"Beverley Way, New Malden",51.4042459,-0.2430694
+Starbucks Coffee,Kingston upon Thames,"['cafe', 'restaurant', 'store', 'food', 'point_of_interest', 'establishment']",4.0,451.0,"The Bentall Centre, Wood Street, Kingston upon Thames",51.41165929999999,-0.3038992999999999
+Costa Coffee,Kingston upon Thames,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.0,236.0,"59-67 Broad Street, Teddington",51.4261212,-0.3370183
+Costa Coffee,Kingston upon Thames,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.0,273.0,"27 Victoria Road, Surbiton",51.39247999999999,-0.306664
+Bubbles Shisha Cafe,Kingston upon Thames,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,309.0,"60 Surbiton Road, Kingston upon Thames",51.40130779999999,-0.3041792
+Costa Coffee,Kingston upon Thames,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.1,373.0,"Unit L15, The Bentall Centre, Wood Street, Kingston upon Thames",51.41198499999999,-0.3044009999999999
+Pickled Pantry,Kingston upon Thames,"['cafe', 'restaurant', 'store', 'food', 'point_of_interest', 'establishment']",4.6,362.0,"7 Saint Mark's Hill, Surbiton",51.3935299,-0.3030871000000001
+Boho Cafe ( Kings Road ),Kingston upon Thames,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.5,153.0,"159A King's Road, Kingston upon Thames",51.418644,-0.296785
+Hampton Pool,Kingston upon Thames,"['spa', 'cafe', 'food', 'gym', 'point_of_interest', 'health', 'establishment']",4.4,769.0,"High Street, Hampton",51.41846719999999,-0.3579816999999999
+La Fontana Cafe Deli Thames Ditton,Kingston upon Thames,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.8,113.0,"53 High Street, Thames Ditton",51.39107079999999,-0.3324529
+Beanberry Coffee Company,Kingston upon Thames,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.6,601.0,"30B Fife Road, Kingston upon Thames",51.4116781,-0.3029431
+St John's Smith Square,Lambeth,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,723.0,"Smith Square, London",51.4959978,-0.1270108
+Asda Clapham Junction Superstore,Lambeth,"['supermarket', 'atm', 'grocery_or_supermarket', 'cafe', 'finance', 'clothing_store', 'store', 'food', 'point_of_interest', 'establishment']",3.8,1047.0,"204 Lavender Hill, London",51.465371,-0.164962
+St Stephen's Tavern,Lambeth,"['restaurant', 'cafe', 'bar', 'food', 'point_of_interest', 'establishment']",4.1,4003.0,"10 Bridge Street, London",51.5011626,-0.1256042
+ODEON Streatham,Lambeth,"['movie_theater', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.8,2295.0,"47-49 High Road, London",51.4321656,-0.1286103
+Dulwich Picture Gallery,Lambeth,"['art_gallery', 'tourist_attraction', 'museum', 'park', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.5,466.0,London,51.44606219999999,-0.08632889999999999
+Dogstar,Lambeth,"['night_club', 'cafe', 'bar', 'food', 'point_of_interest', 'establishment']",3.8,867.0,"389 Coldharbour Lane, London",51.46172189999999,-0.1118848
+Cubana Restaurant Waterloo,Lambeth,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.4,6168.0,"48 Lower Marsh, London",51.5015329,-0.1108987
+Morleys Brixton,Lambeth,"['department_store', 'home_goods_store', 'cafe', 'clothing_store', 'store', 'food', 'point_of_interest', 'establishment']",4.1,1043.0,"472-488 Brixton Road, London",51.46257139999999,-0.1153399
+The Lido Cafe (Now 400 Rabbits),Lambeth,"['cafe', 'bar', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.6,232.0,"the lido cafe, Dulwich Road, London",51.4532779,-0.1060916
+Tooting Bec Lido,Lambeth,"['tourist_attraction', 'cafe', 'food', 'point_of_interest', 'establishment']",4.3,1036.0,"Tooting Bec Road, London",51.4318299,-0.1391134
+Tea House Theatre,Lambeth,"['cafe', 'food', 'point_of_interest', 'establishment']",4.1,1007.0,"139 Vauxhall Walk, London",51.488156,-0.120666
+Starbucks Coffee,Lambeth,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.8,1247.0,"Belvedere Road, London",51.50201789999999,-0.1176771
+Dulwich Leisure Centre,Lambeth,"['gym', 'cafe', 'school', 'health', 'food', 'point_of_interest', 'establishment']",3.9,320.0,"2B Crystal Palace Road, London",51.46062200000001,-0.07158070000000001
+Daylesford Organic,Lambeth,"['meal_takeaway', 'grocery_or_supermarket', 'cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,587.0,"44B Pimlico Road, London",51.4906755,-0.1535149
+Patisserie Valerie - Victoria,Lambeth,"['bakery', 'cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,359.0,"55 Wilton Road, London",51.4935156,-0.1412834
+Ellary's,Lewisham,"['restaurant', 'cafe', 'bar', 'food', 'point_of_interest', 'establishment']",4.4,570.0,"5 Harefield Road, London",51.4637915,-0.0356064
+Horniman Cafe,Lewisham,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.0,418.0,"100 London Road, London",51.4412058,-0.06137260000000001
+Boulangerie Jade,Lewisham,"['bakery', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.8,182.0,"44 Tranquil Vale, London",51.4665779,0.008105199999999998
+Pistachios in the Park,Lewisham,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.3,238.0,"Manor House Gardens, Old Road, London",51.4571691,0.0050104
+Café Crofton Park,Lewisham,"['cafe', 'food', 'point_of_interest', 'establishment']",4.4,250.0,"397 Brockley Road, London",51.4544949,-0.03729200000000001
+kings cafe,Lewisham,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,86.0,"Unit D, Worsley Bridge Road",51.4255948,-0.0322499
+Sema's Cafe,Lewisham,"['cafe', 'meal_takeaway', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.7,201.0,"Saint Georges Parade, Perry Hill, London",51.43878720000001,-0.0333379
+Chefs Delight,Lewisham,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,401.0,"69 Sydenham Road, London",51.4262618,-0.05103079999999999
+Parkside Cafe,Lewisham,"['cafe', 'food', 'point_of_interest', 'establishment']",4.6,149.0,"12 Forest Hill Road, London",51.454005,-0.062735
+Costa Coffee,Lewisham,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.2,413.0,"14 - 15 Catford Broadway, London",51.44520300000001,-0.021762
+Costa Coffee,Lewisham,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.3,365.0,"103, 105 Rushey Green, London",51.447322,-0.018122
+Nes's Cafe,Lewisham,"['cafe', 'food', 'point_of_interest', 'establishment']",4.8,93.0,"18 Rushey Green, London",51.4500797,-0.0173503
+Good Hope Cafe,Lewisham,"['cafe', 'food', 'point_of_interest', 'establishment']",4.4,130.0,"Ladywell Fields, Ladywell Road, London",51.4553097,-0.0195469
+PLACE/Ladywell,Lewisham,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,45.0,"261 Lewisham High Street, London",51.4565417,-0.0137164
+☕️No. 41 Coffee & Kitchen,Lewisham,"['cafe', 'bakery', 'meal_takeaway', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.6,229.0,"41 Brockley Rise, London",51.4440647,-0.0428023
+ODEON Wimbledon,Merton,"['movie_theater', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.1,3370.0,"39 The Broadway, The Crescent, London",51.4198702,-0.2048484
+Tooting Leisure Centre,Merton,"['cafe', 'gym', 'health', 'food', 'point_of_interest', 'establishment']",3.7,547.0,"Greaves Place, London",51.4291799,-0.173911
+Asda Sutton Superstore,Merton,"['supermarket', 'atm', 'grocery_or_supermarket', 'cafe', 'pharmacy', 'clothing_store', 'health', 'finance', 'food', 'store', 'point_of_interest', 'establishment']",3.7,533.0,"Saint Nicholas Way, Sutton",51.36784899999999,-0.19524
+The Terrace Wimbledon,Merton,"['bar', 'night_club', 'cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.9,76.0,"Centre Court Shopping Centre, 4 Queen's Road, London",51.42095399999999,-0.205576
+David Weir Leisure Centre,Merton,"['gym', 'cafe', 'health', 'food', 'point_of_interest', 'establishment']",4.2,307.0,"Middleton Road, Carshalton",51.38414059999999,-0.1813958
+Caffè Nero,Merton,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.0,606.0,"6 The Broadway, London",51.4204569,-0.2046726
+Caffè Nero,Merton,"['cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.2,708.0,"Unit 1, Old House Inn, 2 Carshalton Road, Sutton",51.36110559999999,-0.1918286
+Wimbledon Guild,Merton,"['cafe', 'food', 'point_of_interest', 'establishment']",4.3,66.0,"Guild House, 30-32 Worple Road, London",51.42013559999999,-0.2107267
+Lime & Thyme,Merton,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.5,737.0,"56 Coombe Lane, London",51.4095306,-0.2312848
+Bill's Wimbledon Restaurant,Merton,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.3,1801.0,"20 Hartfield Road, London",51.4196726,-0.2051368
+Haydons Cafe London,Merton,"['cafe', 'food', 'point_of_interest', 'establishment']",4.5,109.0,"341 Haydons Road, London",51.4270986,-0.1905921
+Green Lane Kebab,Merton,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.5,47.0,"135 Green Lane, Morden",51.38982129999999,-0.1965553
+Peabodys Coffee,Merton,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.1,57.0,"17 Cranmer Terrace, London",51.42708570000001,-0.1745464
+Fellow Foodies,Merton,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",,,"8 Crown Lane, Morden",51.4019078,-0.1955118
+Potting Shed Cafe,Merton,"['cafe', 'food', 'point_of_interest', 'establishment']",4.0,205.0,"21 Morden Hall Road, Morden",51.401595,-0.1890944
+River Side Cafe,Merton,"['cafe', 'food', 'point_of_interest', 'establishment']",4.3,74.0,"Ravensbury Lane Ravensbury Park Surrey, Morden Road, Mitcham",51.3986135,-0.178161
+Shell,Merton,"['gas_station', 'car_wash', 'meal_delivery', 'convenience_store', 'cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.1,128.0,"262 Martin Way, London",51.4035569,-0.21375
+Asda Isle of Dogs Superstore,Newham,"['supermarket', 'atm', 'grocery_or_supermarket', 'cafe', 'clothing_store', 'gas_station', 'finance', 'health', 'store', 'food', 'point_of_interest', 'establishment']",3.3,1096.0,"151 East Ferry Road, London",51.494393,-0.01185
+Hazev Restaurant Canary Wharf,Newham,"['restaurant', 'cafe', 'bar', 'store', 'food', 'point_of_interest', 'establishment']",4.1,2134.0,"Discovery Dock Apartments West, 2 South Quay Square, London",51.50152689999999,-0.0192563
+Obicà,Newham,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.0,889.0,"Unit 1, 35 Bank Street, London",51.50263820000001,-0.0202284
+The Pantry Cafe,Newham,"['cafe', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.3,33.0,"357 High Street, London",51.5383805,-0.0011377
+Brera,Newham,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.8,1211.0,"Unit 12, 15 Cabot Square, London",51.50514709999999,-0.0221038
+Excel Cafe,Newham,"['cafe', 'food', 'point_of_interest', 'establishment']",3.7,44.0,"27 Freemasons Road, London",51.5109753,0.0255389
+Caffè Nero,Newham,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",3.6,42.0,"City Airport Airside, London",51.5039858,0.04981919999999999
+Costa Coffee London City Airport,Newham,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.0,116.0,"Costa at DLR Station London City Airport King George V Dock, London",51.5033146,0.04941129999999999
+Cafe Bonnane,Newham,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.3,284.0,"14 Booth Road, London",51.5022324,0.0374454
+Starbucks Royal Wharf,Newham,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,550.0,"5 Halyard Place, London",51.5018187,0.0310678
+Costa Coffee Ilford 1,Redbridge,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.0,575.0,"Unit 75, The Exchange Shopping Centre, Ilford",51.5602045,0.0724103
+Belgique Wanstead Cafe,Redbridge,"['bakery', 'cafe', 'meal_takeaway', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",3.6,377.0,"29 Cambridge Park, London",51.575069,0.026112
+The Larder,Redbridge,"['cafe', 'bar', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.2,390.0,"39 High Street, London",51.5792135,0.0253101
+Costa Coffee Express,Redbridge,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.1,16.0,"Studley Drive, Ilford",51.5757285,0.0463235
+Shell,Redbridge,"['gas_station', 'convenience_store', 'meal_delivery', 'cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.0,110.0,"London Road, Barking",51.537647,0.07150800000000002
+Eclipse Ilford,Redbridge,"['store', 'cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.1,11.0,"104-106 Cranbrook Road, Ilford, London",51.5617152,0.06915639999999999
+Maison Fraise Patisserie,Redbridge,"['bakery', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.4,30.0,"50 High Street, Ilford",51.589674,0.08185400000000001
+Creams Cafe Ilford,Redbridge,"['bakery', 'cafe', 'meal_takeaway', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",3.3,571.0,"114 High Road, Ilford",51.5591394,0.07269529999999999
+Starbucks Coffee,Redbridge,"['cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",3.8,818.0,"88 High Road, Ilford",51.55858199999999,0.07182120000000002
+Grounded Coffee,Redbridge,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.7,14.0,"Clements Road, Ilford",51.557503,0.0728138
+Costa Coffee,Redbridge,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.0,933.0,"24 Cranbrook Road, Ilford",51.5593427,0.07046160000000003
+Coffeelink Ltd,Redbridge,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",4.6,54.0,"Cranbrook Road, Ilford",51.55891459999999,0.06987230000000001
+Coffee Bar Solution,Redbridge,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",,,"344, 348 High Road, Ilford",51.5607447,0.08339059999999998
+Aladdins,Redbridge,"['cafe', 'night_club', 'bar', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.1,534.0,"374 High Road, Ilford",51.5610623,0.08437219999999998
+BAZA Lounge,Redbridge,"['cafe', 'night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.2,301.0,"361 Ley Street, Ilford",51.5649071,0.0831798
+Wild Bean Cafe,Redbridge,"['cafe', 'convenience_store', 'food', 'store', 'point_of_interest', 'establishment']",3.0,5.0,"709 Eastern Avenue, Ilford",51.57417109999999,0.08551729999999998
+Creams Cafe Gants Hill,Redbridge,"['bakery', 'cafe', 'meal_takeaway', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",3.4,897.0,"549 Cranbrook Road, Ilford",51.5759246,0.0658648
+Costa Coffee,Redbridge,"['cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.9,687.0,"62-64 Station Parade, Barking",51.5392638,0.08158839999999999
+Wanstead Tea Hut,Redbridge,"['cafe', 'food', 'point_of_interest', 'establishment']",4.6,333.0,"Wanstead Park Avenue, London",51.56584140000001,0.04156290000000001
+Caffe Latte,Redbridge,"['cafe', 'food', 'point_of_interest', 'establishment']",4.0,208.0,"2, The Vicarage Field Shopping Centre, Ripple Road, Barking",51.53770429999999,0.080384
+Old Deer Park Sports Grounds,Richmond upon Thames,"['cafe', 'bar', 'food', 'point_of_interest', 'establishment']",4.5,367.0,"187 Kew Road, Richmond",51.46879569999999,-0.2952569
+Richmond Hill Bakery,Richmond upon Thames,"['bakery', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.3,335.0,"54 Friars Stile Road, Richmond",51.4554742,-0.2964462999999999
+Caffè Nero,Richmond upon Thames,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.4,187.0,"248 Upper Richmond Road West, London",51.4648632,-0.2663235
+ODEON Surrey Quays,Southwark,"['movie_theater', 'cafe', 'food', 'store', 'point_of_interest', 'establishment']",3.9,2955.0,"Surrey Quays Leisure Park, Redriff Road, London",51.4959322,-0.0447721
+Costa Coffee,Sutton,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.0,316.0,"61 High Street, Banstead",51.3227081,-0.201561
+Flittons Nursery,Sutton,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.4,122.0,"51 Woodmansterne Lane, Wallington",51.3417749,-0.1522915
+Caffé Kiko,Sutton,"['cafe', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",4.1,300.0,"Saint Nicholas Way, Sutton",51.3648995,-0.1945383
+Sunshine Cafe,Sutton,"['cafe', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",4.3,158.0,"10 Green Wrythe Lane, Carshalton",51.3722396,-0.1673275
+Esquires Coffee Sutton,Sutton,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",3.7,184.0,"St Nicholas Shopping Centre, Saint Nicholas Way, Surrey",51.3641762,-0.1944799
+Wallington Garden Cafe,Sutton,"['cafe', 'point_of_interest', 'food', 'establishment']",4.1,92.0,"Shotfield, Wallington",51.3577778,-0.1508333
+Tim's Cafe,Sutton,"['cafe', 'point_of_interest', 'food', 'establishment']",4.6,267.0,"222 High Street, Sutton",51.366647,-0.194299
+bp,Sutton,"['gas_station', 'atm', 'car_wash', 'cafe', 'finance', 'point_of_interest', 'food', 'establishment']",2.0,22.0,"95 Saint Dunstan's Hill, Sutton",51.36492149999999,-0.2140791
+Mad Coffee Bar,Sutton,"['cafe', 'bar', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",4.7,487.0,"61 Lind Road, Sutton",51.3654159,-0.186392
+Waterstones,Sutton,"['book_store', 'cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.5,523.0,"71-81 High Street, Sutton",51.36217499999999,-0.1926833
+Morrisons Cafe,Sutton,"['cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']",3.4,23.0,"31 High Street, Sutton",51.36019,-0.193252
+Caffè Nero,Sutton,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.1,454.0,"121 High Street, Sutton",51.36368390000001,-0.1935285
+Starbucks Coffee,Sutton,"['cafe', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",3.9,408.0,"174 High Street, Sutton",51.36521,-0.1937121
+Costa Coffee,Sutton,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.3,372.0,"176 High Street, Sutton",51.36530699999999,-0.19354
+Simplicity,Tower Hamlets,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.4,155.0,"1 Tunnel Road, London",51.5012858,-0.0531121
+Le Pont de la Tour,Tower Hamlets,"['bakery', 'cafe', 'bar', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.2,1310.0,"36D Shad Thames, London",51.50365310000001,-0.07365070000000001
+The View Tube,Tower Hamlets,"['cafe', 'food', 'point_of_interest', 'establishment']",4.6,548.0,"The Greenway, View Tube, Marshgate Lane, London",51.5353556,-0.0130833
+Pavilion Cafe Victoria Park,Tower Hamlets,"['cafe', 'bakery', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",4.3,1684.0,"Victoria Park, Old Ford Road, London",51.5334069,-0.0428899
+Shell,Tower Hamlets,"['gas_station', 'convenience_store', 'meal_delivery', 'cafe', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",3.7,107.0,"445-453 Wick Lane, London",51.5345797,-0.021605
+ODEON South Woodford,Waltham Forest,"['movie_theater', 'cafe', 'point_of_interest', 'food', 'store', 'establishment']",3.9,1281.0,"60, 64 High Road, London",51.5945214,0.0230187
+Belgique Cafe and Patisserie,Waltham Forest,"['cafe', 'meal_takeaway', 'bakery', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",4.1,102.0,"11 The Broadway, London, Woodford Green",51.6079617,0.0334775
+Asda Leyton Mills Superstore,Waltham Forest,"['supermarket', 'cafe', 'pharmacy', 'clothing_store', 'grocery_or_supermarket', 'health', 'point_of_interest', 'food', 'store', 'establishment']",4.1,4939.0,"Marshall Road, London",51.55589649999999,-0.009331099999999998
+Johnstons,Waltham Forest,"['cafe', 'point_of_interest', 'food', 'establishment']",4.2,297.0,"626 Lea Bridge Road, London",51.5755472,-0.0123824
+Venerdi,Waltham Forest,"['meal_takeaway', 'cafe', 'bar', 'restaurant', 'point_of_interest', 'food', 'establishment']",4.2,825.0,"9 Chatsworth Road, London",51.55192419999999,-0.0441495
+Caffè Nero,Waltham Forest,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.1,268.0,"65 Station Road, London",51.63162550000001,0.004889300000000001
+Moonlight Cafe,Waltham Forest,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.3,99.0,"143 Wood Street, London",51.58749340000001,-0.003510399999999999
+Le Parisien,Waltham Forest,"['cafe', 'point_of_interest', 'food', 'establishment']",4.5,98.0,"Leytonstone Station, Church Lane, London",51.5684249,0.008648300000000001
+Casa 05 wood street,Waltham Forest,"['cafe', 'point_of_interest', 'food', 'establishment']",4.5,51.0,"1, Golden Parade, Wood Street, London",51.58946710000001,-0.0044935
+CAFE VIVALDI,Waltham Forest,"['cafe', 'point_of_interest', 'food', 'establishment']",4.4,84.0,"117 Station Road, London",51.6324703,0.007398600000000001
+Shell,Waltham Forest,"['gas_station', 'car_wash', 'convenience_store', 'cafe', 'meal_delivery', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",4.4,254.0,"470 Larkshall Road, London",51.608998,-0.001241
+Markfield Park Cafe,Waltham Forest,"['cafe', 'point_of_interest', 'food', 'store', 'establishment']",4.3,482.0,"Markfield Road, London",51.5816568,-0.0612767
+Elif kitchen cafe&bistro,Waltham Forest,"['cafe', 'point_of_interest', 'food', 'establishment']",4.0,28.0,"1, 7 Garman Road, London",51.6021997,-0.0514052
+Buhler and Co (Brunch/Lunch/Coffee shop),Waltham Forest,"['cafe', 'restaurant', 'point_of_interest', 'food', 'store', 'establishment']",4.6,567.0,"8 Chingford Road, London",51.5905938,-0.0170676
+Jack's at the Junction,Wandsworth,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.3,936.0,"252 Lavender Hill, London",51.4640078,-0.1664803
+Pottery Cafe,Wandsworth,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",4.6,179.0,"735 Fulham Road, London",51.47686,-0.2024469
+GAIL's Bakery Northcote Road,Wandsworth,"['bakery', 'meal_delivery', 'cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.8,450.0,"64 Northcote Road, London",51.458499,-0.1662769
+The Kensington Creperie,Wandsworth,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.7,1667.0,"2-4 Exhibition Road, London",51.4947729,-0.173204
+GAZETTE BATTERSEA,Wandsworth,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4.3,590.0,"Unit 79, Sherwood Court, Chatfield Road, London",51.46581080000001,-0.1822525
