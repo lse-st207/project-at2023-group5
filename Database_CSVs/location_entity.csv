@@ -1,0 +1,452 @@
+Cafe_Id,Vicinity,Latitude,Longitude,Borough
+1,"244 Oxlow Lane, Dagenham",51.55102600000001,0.1547964,Barking and Dagenham
+2,"Merrielands Crescent, Dagenham",51.5301912,0.1422174,Barking and Dagenham
+3,"Althorne Way, Dagenham",51.5609465,0.1488995,Barking and Dagenham
+4,"Hornchurch Road, Hornchurch",51.5632907,0.2089398,Barking and Dagenham
+5,"264 Rainham Road South, Dagenham",51.5508213,0.1614183,Barking and Dagenham
+6,"686 Becontree Avenue, Dagenham",51.5603893,0.1472634,Barking and Dagenham
+7,"25-26 The Mercury Shopping Centre, Romford",51.5793087,0.185747,Barking and Dagenham
+8,"King Georges Playing Fields Car Park, Eastern Avenue West, Romford",51.5845796,0.1679879,Barking and Dagenham
+9,"Wood Lane, Dagenham",51.560415,0.1483637,Barking and Dagenham
+10,"Beacontree Heath, Dagenham",51.560107,0.148194,Barking and Dagenham
+11,"Rush Green Road, Romford",51.5657886,0.1769919,Barking and Dagenham
+12,"East Business And Technical Park, Drive Thru, Drive Thru, Unit 1C, London, Yew Tree Avenue, Dagenham",51.54631500000001,0.167304,Barking and Dagenham
+13,"Unit C8, Seedbed Centre, Essex",51.57008980000001,0.1839485,Barking and Dagenham
+14,"Pod 3 The Brewery, Waterloo Road, Romford",51.57655380000001,0.179876,Barking and Dagenham
+15,"Unit 1 The Brewery, Romford",51.577044,0.179623,Barking and Dagenham
+16,"7-9 North Street, Romford",51.5788527,0.1796929,Barking and Dagenham
+17,"78 Brentwood Road, Romford",51.57203699999999,0.1907102,Barking and Dagenham
+18,"Unit 2A, Goodmayes Retail Park, High Road, Romford",51.5677842,0.117121,Barking and Dagenham
+19,"43A Market Place, Romford",51.57987490000001,0.1822641,Barking and Dagenham
+20,"unit 36&37, Mercury Shopping Centre, Mercury Gardens, Romford",51.57929710000001,0.1852055,Barking and Dagenham
+21,"407 High Road, London",51.6008685,-0.1750689,Barnet
+22,"5 Nether Street, London",51.61297440000001,-0.1768618,Barnet
+23,"White Hart Lane, London",51.6046932,-0.0998435,Barnet
+24,"249 Muswell Hill Broadway, London",51.5916559,-0.1430828,Barnet
+25,"1287 High Road, London",51.6309277,-0.1753933,Barnet
+26,"62-64 High Road, London",51.58895769999999,-0.1637612,Barnet
+27,"376 Muswell Hill Broadway, London",51.5914856,-0.1424424,Barnet
+28,"Coppetts Centre, North Circular Road, London",51.607269,-0.157001,Barnet
+29,"1 Oakleigh Road North, London",51.6299675,-0.174411,Barnet
+30,"729 Green Lanes, London",51.6311784,-0.0963743,Barnet
+31,"424-426 Green Lanes, London",51.62220569999999,-0.1050254,Barnet
+32,"41 East Barnet Road, Barnet",51.64990269999999,-0.171376,Barnet
+33,"16 Sussex Ring, London",51.61498559999999,-0.1909997,Barnet
+34,"1336 High Road, London",51.6322231,-0.1752574,Barnet
+35,"Oakliegh Park Station,Platform, 1 Netherlands Road, Barnet",51.6377146,-0.1663405,Barnet
+36,"375 Green Lanes, London",51.6194532,-0.1073493,Barnet
+37,"28 Cannon Hill, London",51.6237631,-0.1227088,Barnet
+38,"123 Bramley Road, London",51.6474255,-0.1321265,Barnet
+39,"Tudor Grove, Church Crescent, London",51.6261468,-0.163929,Barnet
+40,"Oak Hill Park Cafe, Parkside Gardens, Barnet",51.63460560000001,-0.1526013,Barnet
+41,"295-313 Bexley Road, Erith",51.47278499999999,0.1625922,Bexley
+42,"Broadway Shopping Centre, Central Square, Bexleyheath",51.45598,0.145861,Bexley
+43,"Unit 4, Prospect Place, Dartford",51.44789999999999,0.21552,Bexley
+44,"70 Bexley High Street, Bexley",51.44163959999999,0.1500741,Bexley
+45,"228 Bexley Road, Erith",51.4735257,0.162357,Bexley
+46,"74 Crayford High Street, Dartford",51.453291,0.176789,Bexley
+47,"107 Welling High Street, Welling",51.46250209999999,0.108359,Bexley
+48,"11, The Mall, Broadway Shopping Centre, Bexleyheath",51.4555653,0.1474154,Bexley
+49,"115 Broadway, Bexleyheath",51.4565659,0.1441646,Bexley
+50,"143 Broadway, Bexleyheath",51.4568521,0.1420772,Bexley
+51,"171 Broadway, London, Bexleyheath",51.4570398,0.1407846,Bexley
+52,"The Willows, Waterside, Dartford",51.45218149999999,0.1791639,Bexley
+53,"Unit 3, Next, TOWER RETAIL PARK, Crayford Road, Dartford",51.45104199999999,0.180797,Bexley
+54,"510 Blackfen Road, Sidcup",51.44774869999999,0.1167906,Bexley
+55,"9 Welling High Street, Welling",51.4618917,0.1132583,Bexley
+56,"28, Embassy Court, Welling",51.46199,0.11016,Bexley
+57,"6 Bellegrove Road, Welling",51.4627016,0.107036,Bexley
+58,"19 Blackfen Road, Sidcup",51.4503902,0.1034904,Bexley
+59,"Unit 6, Riverside Shopping Centre, 21A Town Square, Erith",51.480319,0.1805111,Bexley
+60,"Sidcup Railway Station, Sidcup",51.433904,0.104067,Bexley
+61,"Ace Corner, North Circular Road, London",51.5413119,-0.277825,Brent
+62,"300-302 Twyford Abbey Road, London",51.5349659,-0.2754636,Brent
+63,"2-20 Western Road, London",51.52781,-0.2698899999999999,Brent
+64,"Forty Lane, Wembley",51.56479119999999,-0.2755593,Brent
+65,"27 St Anns Road, Harrow",51.5811242,-0.3352072,Brent
+66,"28 Abbey Road, London",51.5326775,-0.2750395,Brent
+67,"32-34 Cricklewood Broadway, London",51.5532854,-0.2110543,Brent
+68,"New, Atlas Cafe, 69-71 Craven Park Road, London",51.53942640000001,-0.2527655999999999,Brent
+69,"263 Hool Close, London",51.5830734,-0.2633904,Brent
+70,"368 High Road, London",51.5492159,-0.2421223,Brent
+71,"Engineers Way, Wembley",51.5587657,-0.2819752,Brent
+72,"Designer Outlet, Unit 5a London, Wembley Park Boulevard, Wembley",51.557095,-0.2826485,Brent
+73,"20 Wembley Park Boulevard, London",51.5574209,-0.2842227000000001,Brent
+74,"Unit 49, London Designer Outlet, Wembley Park Boulevard, Wembley",51.55669,-0.28339,Brent
+75,"7 Olympic Way, Wembley, London",51.561082,-0.2791689999999999,Brent
+76,"19 Bridge Road, Wembley Park, Wembley",51.564592,-0.277879,Brent
+77,"414 High Road, Wembley",51.5537699,-0.2912632,Brent
+78,"Central Shopping Centre, 455 High Road, Wembley",51.55224049999999,-0.2965288,Brent
+79,"2 Blackbird Hill, Wembley",51.5650114,-0.2644175,Brent
+80,"2 Blackbird Hill, Wembley",51.56491,-0.26427,Brent
+81,"33-34 Market Square, Bromley",51.405825,0.015281,Bromley
+82,"194-202 High Street, Beckenham",51.40685,-0.0282,Bromley
+83,"12 High Street, Chislehurst",51.4179858,0.0679893,Bromley
+84,"51 Station Approach, Hayes, Bromley",51.376243,0.011273,Bromley
+85,"Unit 28, The Glades Shopping Centre, Bromley",51.4037,0.016433,Bromley
+86,"Kiosk 98 The Glades Shopping Centre, Bromley",51.40510380000001,0.0164632,Bromley
+87,"94 High Street, Beckenham",51.4080039,-0.0255196,Bromley
+88,"High Street, Bromley",51.4043845,0.0168914,Bromley
+89,"12 Elmfield Road, Bromley",51.4025676,0.0164888,Bromley
+90,"The Glades Shopping Centre, High Street, Bromley",51.4027547,0.0156025,Bromley
+91,"75 High Street, Bromley",51.40229420000001,0.0158968,Bromley
+92,"86 High Street, Bromley",51.4028644,0.0150561,Bromley
+93,"161 High Street, Bromley",51.4053949,0.0149449,Bromley
+94,"12-14 High Street, Bromley",51.4000539,0.0168009,Bromley
+95,"133-135 Widmore Road, Bromley",51.40689620000001,0.0284365,Bromley
+96,"171 Widmore Road, Bromley",51.406282,0.03289,Bromley
+97,"48 Chatterton Road, Bromley",51.39197739999999,0.0358915,Bromley
+98,"147-151 Westmoreland Road, Bromley",51.392181,0.001099,Bromley
+99,"96A Bromley Hill, Bromley",51.4183057,0.001848,Bromley
+100,"227 Southborough Lane, Bromley",51.3900669,0.050858,Bromley
+101,"37 Tavistock Place, London",51.52620449999999,-0.124825,Camden
+102,"81-103 Euston Street, London",51.5266402,-0.135689,Camden
+103,"39 Buckingham Palace Road, London",51.49826530000001,-0.1434998,Camden
+104,"86-90 Park Lane, London",51.5098444,-0.155529,Camden
+105,"Waterloo, 1 Charlie Chaplin Walk South Bank",51.50487889999999,-0.1136318,Camden
+106,"9 Bermondsey Square, London",51.497719,-0.0813155999999999,Camden
+107,"160 Piccadilly, St. James's, London",51.5074427,-0.1409233,Camden
+108,"1-5 West Street, London",51.51286029999999,-0.128045,Camden
+109,"35-47 Bethnal Green Road, London",51.5243955,-0.0731967999999999,Camden
+110,"25 London Street, London",51.51576679999999,-0.1744445,Camden
+111,"Central Cross, 30 Tottenham Court Road, London",51.5183526,-0.1324275,Camden
+112,"48 Greek Street, London",51.5139706,-0.1309972,Camden
+113,"36 Wigmore Street, London",51.516608,-0.1481362,Camden
+114,"2 Park Street, London",51.5055334,-0.0914069,Camden
+115,"38a Leicester Square, London",51.50992159999999,-0.1301796,Camden
+116,"96 Euston Road, London",51.52997169999999,-0.1276759,Camden
+117,"107 Charing Cross Road, London",51.51430149999999,-0.1299049,Camden
+118,"99 Shaftesbury Avenue, London",51.5127004,-0.1305849,Camden
+119,"83 Southwark Street, London",51.5054844,-0.0998167,Camden
+120,"21 New Globe Walk, Bankside, London",51.5082418,-0.0965236,Camden
+121,"231 Lower Addiscombe Road, Croydon",51.38025599999999,-0.0733924,Croydon
+122,"3 Mitcham Road, Croydon",51.3788072,-0.1109563,Croydon
+123,"24A Sandmartin Way, Hackbridge, Wallington",51.3831545,-0.1565439,Croydon
+124,"48 Stafford Road, Wallington",51.35851369999999,-0.1452875,Croydon
+125,"445 Purley Way, Croydon",51.36465010000001,-0.1179416,Croydon
+126,"267 Brighton Road, South Croydon",51.3538806,-0.0975441,Croydon
+127,"78 Windmill Road, Croydon",51.385601,-0.0999072999999999,Croydon
+128,"Yeha Noha Cafe, 19-21 Station Road, London",51.397839,-0.0756828999999999,Croydon
+129,"1074, Whitgift Centre, 21 North End, Croydon",51.37550960000001,-0.0993801,Croydon
+130,"4 Coomber Way, Croydon",51.38683090000001,-0.1344001,Croydon
+131,"355 London Road, Croydon",51.3855279,-0.1100945,Croydon
+132,"1019, Whitgift Centre, 21 North End, Croydon",51.37614199999999,-0.1026035,Croydon
+133,"1 Drury Crescent, Croydon",51.3744896,-0.1170561,Croydon
+134,"81 High Street, Croydon",51.37113649999999,-0.1001019,Croydon
+135,"63-67 High Street, Croydon",51.3715824,-0.1003029,Croydon
+136,"44 George Street, Croydon",51.37387829999999,-0.098422,Croydon
+137,"Ground Floor, 11, Bath & Body Works, 19 North End, Croydon",51.374394,-0.101177,Croydon
+138,"93 George Street, East, Croydon",51.37465539999999,-0.0944922,Croydon
+139,"Unit 44-45, Boxpark, 99 George Street, Croydon",51.375038,-0.0941381999999999,Croydon
+140,"1 Station, Station Approach, Croydon",51.375025,-0.093171,Croydon
+141,"40 High Street, Brentford",51.4856828,-0.298389,Ealing
+142,"Bessant Drive, Richmond",51.4811031,-0.2793934,Ealing
+143,"882 Great West Road, Isleworth",51.48344400000001,-0.328037,Ealing
+144,"21 The Green, London",51.51074070000001,-0.3052565,Ealing
+145,"51 New Broadway, London",51.51271609999999,-0.3071020999999999,Ealing
+146,"288 Kew Road, Richmond",51.48080189999999,-0.2884071,Ealing
+147,"386 Chiswick High Road, London",51.49270509999999,-0.2647684,Ealing
+148,"Chiswick House, London",51.4838077,-0.2586959999999999,Ealing
+149,"46-48 Drayton Green Road, London",51.513111,-0.3194325000000001,Ealing
+150,"Ealing Hospital, Uxbridge Road, Southall",51.50735,-0.34654,Ealing
+151,"437 Uxbridge Road, London",51.50998,-0.28748,Ealing
+152,"658 Chiswick High Road, Brentford, London",51.4908641,-0.2850528000000001,Ealing
+153,"Unit 14, Westway Cross Shopping Park, Greenford",51.54279,-0.33946,Ealing
+154,"Park Royal Business Centre, 9-17 Park Royal Road, London",51.52649329999999,-0.2662818999999999,Ealing
+155,"57 New Broadway, London",51.512618,-0.307351,Ealing
+156,"32 New Broadway, London",51.5131139,-0.3066972000000001,Ealing
+157,"Lee Valley, Edmonton, Pickett's Lock Lane, London",51.6331468,-0.0372402,Enfield
+158,"Bullsmoor Lane, Enfield",51.67990999999999,-0.04832,Enfield
+159,"288 High Street, Enfield",51.64781300000001,-0.04783,Enfield
+160,"492 Great Cambridge Road, Enfield",51.65235,-0.05934,Enfield
+161,26 Palace Gardens Shopping Cen,51.651189,-0.083939,Enfield
+162,"8 Chaseville Parade, Chaseville Park Road, London",51.643839,-0.113314,Enfield
+163,"Market Chambers, Church Street, Enfield",51.65224389999999,-0.0828451,Enfield
+164,"5-6 Savoy Parade, Enfield",51.6522106,-0.0768785999999999,Enfield
+165,"Shopping Centre, palace Exchange, 22 The Town, Enfield",51.6514579,-0.0829525,Enfield
+166,"Platform 1, Enfield Chase Railway Station, Windmill Hill, Enfield",51.6532102,-0.0908163,Enfield
+167,"Zippola, Live to Eat, 93 Lancaster Road, Enfield",51.66408740000001,-0.0818323,Enfield
+168,"208 Southbury Road, Enfield",51.6501224,-0.0607296,Enfield
+169,"Unit 1, Next Home, Enfield Retail Park, Crown Road, Enfield",51.65448,-0.05898,Enfield
+170,"7 Queen Anne's Place, Enfield",51.64181199999999,-0.0699637,Enfield
+171,"790 Great Cambridge Road, Enfield",51.66362700000001,-0.0568554,Enfield
+172,"79 Lynmouth Avenue, Enfield",51.6377731,-0.0667058,Enfield
+173,"163 Hertford Road, Enfield",51.6579,-0.046995,Enfield
+174,"26 The Green, London",51.6342671,-0.1028123,Enfield
+175,"792 Green Lanes, London",51.63175500000001,-0.0945559,Enfield
+176,"Bugsby's Way, London",51.49059219999999,0.0127925,Greenwich
+177,"1 Woolwich New Road, London",51.490332,0.0693795,Greenwich
+178,"Unit C, NEXT, 4 Brocklebank Road, London",51.49078,0.02343,Greenwich
+179,"7 Cundy Road, London",51.51108729999999,0.0328802,Greenwich
+180,"Charlton Road, London",51.48059880000001,0.0371722,Greenwich
+181,"10 Chevening Road, London",51.484675,0.0137639,Greenwich
+182,"Tollgate Road, Beckton",51.515668,0.0582619999999999,Greenwich
+183,"115 Eltham High Street, London",51.4509354,0.0549693,Greenwich
+184,"17 Royal Parade, London",51.46716559999999,0.007254,Greenwich
+185,"41 Tranquil Vale, London",51.467399,0.007877,Greenwich
+186,"Equitable House, 29 Greens End, London",51.4904417,0.0682417,Greenwich
+187,"1 Pier Road, London",51.50087869999999,0.0630942999999999,Greenwich
+188,"10 Old Dover Road, London",51.476733,0.0209958,Greenwich
+189,"Grand Depot Road, London",51.48919209999999,0.0662492999999999,Greenwich
+190,"51 Hare Street, London",51.49348,0.0633789999999999,Greenwich
+191,"Norton House, Duke of Wellington Avenue, London",51.4946502,0.0665347999999999,Greenwich
+192,"Unit 9, The I O Centre, Skeffington Street, London",51.4920267,0.0764839,Greenwich
+193,"Thames-Side Studios Gallery, Harrington Way, Warspite Road, London",51.4946119,0.0448459,Greenwich
+194,"16 Warwick Terrace, London",51.48180379999999,0.0836855,Greenwich
+195,"Westminster Industrial Estate, 19 Bowater Road (unit 76 In, London",51.49396369999999,0.0421675,Greenwich
+196,"91 Brick Lane, London",51.52093410000001,-0.0719882,Hackney
+197,"287 Upper Street, London",51.5397504,-0.1022929,Hackney
+198,"58 Redchurch Street, London",51.52440099999999,-0.0742603999999999,Hackney
+199,"1 Graces Alley, London",51.51070129999999,-0.0668967,Hackney
+200,"9 Eldon Street, Broadgate, London",51.518699,-0.084719,Hackney
+201,"49-50 Saint John's Square, London",51.5230962,-0.1038718,Hackney
+202,"134 Upper Street, London",51.5392687,-0.1025622,Hackney
+203,"18-22 Ashwin Street, London",51.54694199999999,-0.0747723,Hackney
+204,"31 Camden Passage, London",51.5350988,-0.103734,Hackney
+205,"6 Gutter Lane, London",51.5155225,-0.0954193,Hackney
+206,"120-124 Curtain Road, London",51.5259464,-0.0800521999999999,Hackney
+207,"43-45 Rivington Street, London",51.52612739999999,-0.0814290999999999,Hackney
+208,"352a Mare Street, London",51.5473541,-0.0546725999999999,Hackney
+209,"384 Old Street, London",51.5271434,-0.0788825,Hackney
+210,"11-13 Exmouth Market, London",51.52546299999999,-0.1100856,Hackney
+211,"St. Margarets House Settlement, 21 Old Ford Road, Bethnal Green, London",51.52987400000001,-0.05447,Hackney
+212,"119 Upper Street, London",51.5385288,-0.1026159,Hackney
+213,"46 Cowcross Street, London",51.519943,-0.105043,Hackney
+214,"37 Burdett Road, London",51.522864,-0.0339748999999999,Hackney
+215,"134-136 Lexham Gardens, London",51.495723,-0.19496,Hammersmith and Fulham
+216,"1-3 Kensington Court, London",51.50200719999999,-0.1866267,Hammersmith and Fulham
+217,"350 King's Road, London",51.4847353,-0.1755033,Hammersmith and Fulham
+218,London,51.50462700000001,-0.175073,Hammersmith and Fulham
+219,"Kensington Palace Gardens, London",51.5065855,-0.1877335,Hammersmith and Fulham
+220,"Dan Mason Drive, London",51.472398,-0.2634714,Hammersmith and Fulham
+221,"La Piccola Deli Pasticceria, 270 Kensington High Street, London",51.4986294,-0.2008059,Hammersmith and Fulham
+222,"133 Portobello Road, London",51.5140807,-0.2038636,Hammersmith and Fulham
+223,"Bishop's Avenue, London",51.4707092,-0.2159675,Hammersmith and Fulham
+224,"47 Old Brompton Road, London",51.4933004,-0.1754869,Hammersmith and Fulham
+225,"26 Putney High Street, London",51.4652107,-0.2142387,Hammersmith and Fulham
+226,"73 Blythe Road, London",51.497602,-0.2175909,Hammersmith and Fulham
+227,"25 Gloucester Road, South Kensington, London",51.4981216,-0.1835399,Hammersmith and Fulham
+228,"359 Fulham Palace Road, London",51.47506300000001,-0.21423,Hammersmith and Fulham
+229,"15-17 Exhibition Road, London",51.4950084,-0.1736302,Hammersmith and Fulham
+230,"73 Prince's Square, London",51.5129205,-0.1935085,Hammersmith and Fulham
+231,"Dryburgh Road, London",51.46365619999999,-0.2286599,Hammersmith and Fulham
+232,"88 Kensington High Street, London",51.5018036,-0.191723,Hammersmith and Fulham
+233,"Watermead Way, London",51.5976247,-0.0502964,Haringey
+234,"488 West Green Road, Duckett's Green, London",51.58778710000001,-0.099087,Haringey
+235,"13 Clifton Terrace, London",51.5657146,-0.1085131,Haringey
+236,"1 The Broadway, London",51.57886,-0.12408,Haringey
+237,"66 Highgate High Street, London",51.57106,-0.14809,Haringey
+238,"Unit 4a, Tottenham Hale Retail Park, Broad Lane, London",51.58753,-0.0611199999999999,Haringey
+239,"22 Middle Lane, London",51.5812225,-0.1235522,Haringey
+240,"159A Tottenham Lane, London",51.5818634,-0.12003,Haringey
+241,"1 Hazellville Road, London",51.5695455,-0.1243871,Haringey
+242,"1 Navigator Square, Archway, London",51.5659627,-0.1349262,Haringey
+243,"Unit E, Tottenham Hale Retail Park, London",51.58758400000001,-0.063354,Haringey
+244,"Unit 4C, The Arena Shopping Pa, London",51.576439,-0.097673,Haringey
+245,"237 Muswell Hill Broadway, London",51.5915429,-0.1430246,Haringey
+246,"5, Station Forecourt, Station Road, London, Edgware",51.6136876,-0.2755771999999999,Harrow
+247,"153 Field End Road, Pinner",51.578639,-0.399112,Harrow
+248,"Unit 2, 67-70 Station Road, Edgware",51.61307679999999,-0.2772073,Harrow
+249,"250 / 252 Northolt Road, South Harrow, Harrow",51.5641,-0.354526,Harrow
+250,"238 Imperial Drive, Harrow",51.5761555,-0.3702117,Harrow
+251,"343 High Road, Harrow",51.6039171,-0.339743,Harrow
+252,"284B Station Road, Harrow",51.58203409999999,-0.3324514,Harrow
+253,"24-26 Church Road, Stanmore",51.6172742,-0.3120828,Harrow
+254,"2, Tesco, Harrow",51.58589,-0.33413,Harrow
+255,"38-40 High Street, Harrow",51.5943109,-0.3348485,Harrow
+256,"Ground Floor, Bruce House, Lower, Sovereign Place, Harrow",51.5850435,-0.3310073,Harrow
+257,"112-114, Wealdstone, High Street, Harrow",51.5966,-0.335204,Harrow
+258,"76-80 St Anns Road, Harrow",51.58231,-0.3366599999999999,Harrow
+259,"St Georges Shopping Centre St Ann's Road, Harrow",51.5815078,-0.3393113,Harrow
+260,"Square 1, Bond Apartments, College Road, Harrow",51.5799485,-0.3357646,Harrow
+261,"College Road, Harrow",51.58003069999999,-0.3374615,Harrow
+262,"on the Hill Station, Station Approach, Harrow",51.579555,-0.3368828,Harrow
+263,"Pinner View, Harrow",51.59404749999999,-0.354366,Harrow
+264,"8 Warwick Parade Kenton Lane, Harrow",51.60069999999999,-0.3180999999999999,Harrow
+265,"Bryant Avenue, Romford",51.5936,0.21781,Havering
+266,"197 Ardleigh Green Road, Hornchurch",51.5841228,0.22022,Havering
+267,"Eastern Avenue East, Romford",51.59127179999999,0.1790432,Havering
+268,"83 Main Road, Romford",51.586734,0.200045,Havering
+269,"132 Hornchurch Road, Hornchurch",51.5650117,0.2036263,Havering
+270,"NEXT, Gallows Corner, Gallows Corner Retail Park, Colchester Road, Romford",51.592862,0.215658,Havering
+271,"302, The chimes shopping centre, Uxbridge",51.5450527,-0.4756154,Hillingdon
+272,"95 Slough Road, Iver",51.5373325,-0.5156964999999999,Hillingdon
+273,"100 - 102 High Street, Ruislip",51.57409999999999,-0.424681,Hillingdon
+274,"51-52 High Street, Uxbridge",51.547418,-0.48107,Hillingdon
+275,"The Pavilions Shopping Centre, Grainge's Yard, Uxbridge",51.5460697,-0.4808929,Hillingdon
+276,"105 Hillingdon Hill, Uxbridge",51.53536219999999,-0.4608473,Hillingdon
+277,"148-152 High Street, Uxbridge",51.5467867,-0.4799914,Hillingdon
+278,"30 High Street, Uxbridge",51.52251219999999,-0.4812015000000001,Hillingdon
+279,"185-186, The chimes shopping centre, Uxbridge",51.545424,-0.4766446,Hillingdon
+280,"5th, The Charter Building, Vine Street, Uxbridge",51.5449865,-0.4793672,Hillingdon
+281,"High Street, Uxbridge",51.545742,-0.478584,Hillingdon
+282,"The Charter Building, Charter Place, Uxbridge",51.54548200000001,-0.47927,Hillingdon
+283,"172 High Street, Uxbridge",51.546606,-0.4781420000000001,Hillingdon
+284,"61 Belmont Road, Uxbridge",51.54836719999999,-0.4778184000000001,Hillingdon
+285,"Brunel University London, Kingston Lane, Uxbridge",51.5328974,-0.4735067000000001,Hillingdon
+286,"95 Oxford Road, Denham, Uxbridge",51.5561294,-0.4913555000000001,Hillingdon
+287,"25 Swakeleys Road, Ickenham, Uxbridge",51.56463220000001,-0.4453297,Hillingdon
+288,"Trout Road, West Drayton",51.515678,-0.477281,Hillingdon
+289,"Oxford Road, Uxbridge",51.56826520000001,-0.5047423000000001,Hillingdon
+290,"High Street, Iver",51.5201824,-0.505983,Hillingdon
+291,"3 Water Lane, Richmond",51.4592363,-0.3070303999999999,Hounslow
+292,"9-11 Church Street, Twickenham",51.4469808,-0.3265452,Hounslow
+293,"Tilley Road, Feltham",51.44573,-0.4115,Hounslow
+294,"36 The Centre, Feltham",51.4464,-0.410527,Hounslow
+295,"Market Parade, 11 Hampton Road West, Hanworth, Feltham",51.4402074,-0.3869331999999999,Hounslow
+296,"Sixth Cross Road, Twickenham",51.4354405,-0.3518239,Hounslow
+297,"1-3 Hill Rise, Richmond",51.4580509,-0.3054919,Hounslow
+298,"241 High Street, Hounslow",51.46842,-0.3637400000000001,Hounslow
+299,"110 Kew Road, Richmond",51.4664059,-0.2974021000000001,Hounslow
+300,"26-28 London Road, Twickenham",51.447705,-0.328678,Hounslow
+301,"531 Staines Road, Hounslow",51.46276229999999,-0.389633,Hounslow
+302,"37B High Street, Twickenham",51.4519645,-0.3577604,Hounslow
+303,"High Street, Hounslow",51.46784390000001,-0.3629304,Hounslow
+304,"Unit 5, The Blenheim Centre, Prince Regent Road, Hounslow",51.4706512,-0.3630229,Hounslow
+305,"481 Great West Road, Hounslow",51.4788863,-0.3617814,Hounslow
+306,"481 Great West Road, Hounslow",51.47901999999999,-0.36188,Hounslow
+307,"231 High Street, Hounslow",51.46853489999999,-0.3631513,Hounslow
+308,"The Brunswick Centre, London",51.5241103,-0.1231058,Islington
+309,"33 D'Arblay Street, London",51.51474080000001,-0.135402,Islington
+310,"61 Great Titchfield Street, London",51.5187857,-0.1408642,Islington
+311,"13 - 25 Church Street, London",51.5241255,-0.1688334,Kensington and Chelsea
+312,"38 Curzon Street, London",51.5065673,-0.1479457,Kensington and Chelsea
+313,"20 Sherwood Street, London",51.5105561,-0.1355974,Kensington and Chelsea
+314,"Unit 5 (1st Floor above WHSmith), Victoria Station Concourse, London",51.49507699999999,-0.1443459,Kensington and Chelsea
+315,"Hampton Court Way, East Molesey",51.401305,-0.3433674,Kingston upon Thames
+316,"The Rotunda, Clarence Street, Kingston upon Thames",51.41171809999999,-0.299275,Kingston upon Thames
+317,"Richmond Park, Richmond",51.4424628,-0.294509,Kingston upon Thames
+318,"35 Cambridge Road, Kingston upon Thames",51.4098927,-0.2889544000000001,Kingston upon Thames
+319,"123 High Street, New Malden",51.4001312,-0.2558116,Kingston upon Thames
+320,"Lower Ham Road, Kingston upon Thames",51.42685909999999,-0.3091662,Kingston upon Thames
+321,"6A, Food for Thought, 7 apple Market, Kingston upon Thames",51.4092498,-0.3058121,Kingston upon Thames
+322,"Beverley Way, New Malden",51.4042459,-0.2430694,Kingston upon Thames
+323,"The Bentall Centre, Wood Street, Kingston upon Thames",51.41165929999999,-0.3038992999999999,Kingston upon Thames
+324,"59-67 Broad Street, Teddington",51.4261212,-0.3370183,Kingston upon Thames
+325,"27 Victoria Road, Surbiton",51.39247999999999,-0.306664,Kingston upon Thames
+326,"60 Surbiton Road, Kingston upon Thames",51.40130779999999,-0.3041792,Kingston upon Thames
+327,"Unit L15, The Bentall Centre, Wood Street, Kingston upon Thames",51.41198499999999,-0.3044009999999999,Kingston upon Thames
+328,"7 Saint Mark's Hill, Surbiton",51.3935299,-0.3030871000000001,Kingston upon Thames
+329,"159A King's Road, Kingston upon Thames",51.418644,-0.296785,Kingston upon Thames
+330,"High Street, Hampton",51.41846719999999,-0.3579816999999999,Kingston upon Thames
+331,"53 High Street, Thames Ditton",51.39107079999999,-0.3324529,Kingston upon Thames
+332,"30B Fife Road, Kingston upon Thames",51.4116781,-0.3029431,Kingston upon Thames
+333,"Smith Square, London",51.4959978,-0.1270108,Lambeth
+334,"204 Lavender Hill, London",51.465371,-0.164962,Lambeth
+335,"10 Bridge Street, London",51.5011626,-0.1256042,Lambeth
+336,"47-49 High Road, London",51.4321656,-0.1286103,Lambeth
+337,London,51.44606219999999,-0.0863288999999999,Lambeth
+338,"389 Coldharbour Lane, London",51.46172189999999,-0.1118848,Lambeth
+339,"48 Lower Marsh, London",51.5015329,-0.1108987,Lambeth
+340,"472-488 Brixton Road, London",51.46257139999999,-0.1153399,Lambeth
+341,"the lido cafe, Dulwich Road, London",51.4532779,-0.1060916,Lambeth
+342,"Tooting Bec Road, London",51.4318299,-0.1391134,Lambeth
+343,"139 Vauxhall Walk, London",51.488156,-0.120666,Lambeth
+344,"Belvedere Road, London",51.50201789999999,-0.1176771,Lambeth
+345,"2B Crystal Palace Road, London",51.46062200000001,-0.0715807,Lambeth
+346,"44B Pimlico Road, London",51.4906755,-0.1535149,Lambeth
+347,"55 Wilton Road, London",51.4935156,-0.1412834,Lambeth
+348,"5 Harefield Road, London",51.4637915,-0.0356064,Lewisham
+349,"100 London Road, London",51.4412058,-0.0613726,Lewisham
+350,"44 Tranquil Vale, London",51.4665779,0.0081051999999999,Lewisham
+351,"Manor House Gardens, Old Road, London",51.4571691,0.0050104,Lewisham
+352,"397 Brockley Road, London",51.4544949,-0.037292,Lewisham
+353,"Unit D, Worsley Bridge Road",51.4255948,-0.0322499,Lewisham
+354,"Saint Georges Parade, Perry Hill, London",51.43878720000001,-0.0333379,Lewisham
+355,"69 Sydenham Road, London",51.4262618,-0.0510307999999999,Lewisham
+356,"12 Forest Hill Road, London",51.454005,-0.062735,Lewisham
+357,"14 - 15 Catford Broadway, London",51.44520300000001,-0.021762,Lewisham
+358,"103, 105 Rushey Green, London",51.447322,-0.018122,Lewisham
+359,"18 Rushey Green, London",51.4500797,-0.0173503,Lewisham
+360,"Ladywell Fields, Ladywell Road, London",51.4553097,-0.0195469,Lewisham
+361,"261 Lewisham High Street, London",51.4565417,-0.0137164,Lewisham
+362,"41 Brockley Rise, London",51.4440647,-0.0428023,Lewisham
+363,"39 The Broadway, The Crescent, London",51.4198702,-0.2048484,Merton
+364,"Greaves Place, London",51.4291799,-0.173911,Merton
+365,"Saint Nicholas Way, Sutton",51.36784899999999,-0.19524,Merton
+366,"Centre Court Shopping Centre, 4 Queen's Road, London",51.42095399999999,-0.205576,Merton
+367,"Middleton Road, Carshalton",51.38414059999999,-0.1813958,Merton
+368,"6 The Broadway, London",51.4204569,-0.2046726,Merton
+369,"Unit 1, Old House Inn, 2 Carshalton Road, Sutton",51.36110559999999,-0.1918286,Merton
+370,"Guild House, 30-32 Worple Road, London",51.42013559999999,-0.2107267,Merton
+371,"56 Coombe Lane, London",51.4095306,-0.2312848,Merton
+372,"20 Hartfield Road, London",51.4196726,-0.2051368,Merton
+373,"341 Haydons Road, London",51.4270986,-0.1905921,Merton
+374,"135 Green Lane, Morden",51.38982129999999,-0.1965553,Merton
+375,"17 Cranmer Terrace, London",51.42708570000001,-0.1745464,Merton
+376,"8 Crown Lane, Morden",51.4019078,-0.1955118,Merton
+377,"21 Morden Hall Road, Morden",51.401595,-0.1890944,Merton
+378,"Ravensbury Lane Ravensbury Park Surrey, Morden Road, Mitcham",51.3986135,-0.178161,Merton
+379,"262 Martin Way, London",51.4035569,-0.21375,Merton
+380,"151 East Ferry Road, London",51.494393,-0.01185,Newham
+381,"Discovery Dock Apartments West, 2 South Quay Square, London",51.50152689999999,-0.0192563,Newham
+382,"Unit 1, 35 Bank Street, London",51.50263820000001,-0.0202284,Newham
+383,"357 High Street, London",51.5383805,-0.0011377,Newham
+384,"Unit 12, 15 Cabot Square, London",51.50514709999999,-0.0221038,Newham
+385,"27 Freemasons Road, London",51.5109753,0.0255389,Newham
+386,"City Airport Airside, London",51.5039858,0.0498191999999999,Newham
+387,"Costa at DLR Station London City Airport King George V Dock, London",51.5033146,0.0494112999999999,Newham
+388,"14 Booth Road, London",51.5022324,0.0374454,Newham
+389,"5 Halyard Place, London",51.5018187,0.0310678,Newham
+390,"Unit 75, The Exchange Shopping Centre, Ilford",51.5602045,0.0724103,Redbridge
+391,"29 Cambridge Park, London",51.575069,0.026112,Redbridge
+392,"39 High Street, London",51.5792135,0.0253101,Redbridge
+393,"Studley Drive, Ilford",51.5757285,0.0463235,Redbridge
+394,"London Road, Barking",51.537647,0.071508,Redbridge
+395,"104-106 Cranbrook Road, Ilford, London",51.5617152,0.0691563999999999,Redbridge
+396,"50 High Street, Ilford",51.589674,0.081854,Redbridge
+397,"114 High Road, Ilford",51.5591394,0.0726952999999999,Redbridge
+398,"88 High Road, Ilford",51.55858199999999,0.0718212,Redbridge
+399,"Clements Road, Ilford",51.557503,0.0728138,Redbridge
+400,"24 Cranbrook Road, Ilford",51.5593427,0.0704616,Redbridge
+401,"Cranbrook Road, Ilford",51.55891459999999,0.0698723,Redbridge
+402,"344, 348 High Road, Ilford",51.5607447,0.0833905999999999,Redbridge
+403,"374 High Road, Ilford",51.5610623,0.0843721999999999,Redbridge
+404,"361 Ley Street, Ilford",51.5649071,0.0831798,Redbridge
+405,"709 Eastern Avenue, Ilford",51.57417109999999,0.0855172999999999,Redbridge
+406,"549 Cranbrook Road, Ilford",51.5759246,0.0658648,Redbridge
+407,"62-64 Station Parade, Barking",51.5392638,0.0815883999999999,Redbridge
+408,"Wanstead Park Avenue, London",51.56584140000001,0.0415629,Redbridge
+409,"2, The Vicarage Field Shopping Centre, Ripple Road, Barking",51.53770429999999,0.080384,Redbridge
+410,"187 Kew Road, Richmond",51.46879569999999,-0.2952569,Richmond upon Thames
+411,"54 Friars Stile Road, Richmond",51.4554742,-0.2964462999999999,Richmond upon Thames
+412,"248 Upper Richmond Road West, London",51.4648632,-0.2663235,Richmond upon Thames
+413,"Surrey Quays Leisure Park, Redriff Road, London",51.4959322,-0.0447721,Southwark
+414,"61 High Street, Banstead",51.3227081,-0.201561,Sutton
+415,"51 Woodmansterne Lane, Wallington",51.3417749,-0.1522915,Sutton
+416,"Saint Nicholas Way, Sutton",51.3648995,-0.1945383,Sutton
+417,"10 Green Wrythe Lane, Carshalton",51.3722396,-0.1673275,Sutton
+418,"St Nicholas Shopping Centre, Saint Nicholas Way, Surrey",51.3641762,-0.1944799,Sutton
+419,"Shotfield, Wallington",51.3577778,-0.1508333,Sutton
+420,"222 High Street, Sutton",51.366647,-0.194299,Sutton
+421,"95 Saint Dunstan's Hill, Sutton",51.36492149999999,-0.2140791,Sutton
+422,"61 Lind Road, Sutton",51.3654159,-0.186392,Sutton
+423,"71-81 High Street, Sutton",51.36217499999999,-0.1926833,Sutton
+424,"31 High Street, Sutton",51.36019,-0.193252,Sutton
+425,"121 High Street, Sutton",51.36368390000001,-0.1935285,Sutton
+426,"174 High Street, Sutton",51.36521,-0.1937121,Sutton
+427,"176 High Street, Sutton",51.36530699999999,-0.19354,Sutton
+428,"1 Tunnel Road, London",51.5012858,-0.0531121,Tower Hamlets
+429,"36D Shad Thames, London",51.50365310000001,-0.0736507,Tower Hamlets
+430,"The Greenway, View Tube, Marshgate Lane, London",51.5353556,-0.0130833,Tower Hamlets
+431,"Victoria Park, Old Ford Road, London",51.5334069,-0.0428899,Tower Hamlets
+432,"445-453 Wick Lane, London",51.5345797,-0.021605,Tower Hamlets
+433,"60, 64 High Road, London",51.5945214,0.0230187,Waltham Forest
+434,"11 The Broadway, London, Woodford Green",51.6079617,0.0334775,Waltham Forest
+435,"Marshall Road, London",51.55589649999999,-0.0093310999999999,Waltham Forest
+436,"626 Lea Bridge Road, London",51.5755472,-0.0123824,Waltham Forest
+437,"9 Chatsworth Road, London",51.55192419999999,-0.0441495,Waltham Forest
+438,"65 Station Road, London",51.63162550000001,0.0048893,Waltham Forest
+439,"143 Wood Street, London",51.58749340000001,-0.0035103999999999,Waltham Forest
+440,"Leytonstone Station, Church Lane, London",51.5684249,0.0086483,Waltham Forest
+441,"1, Golden Parade, Wood Street, London",51.58946710000001,-0.0044935,Waltham Forest
+442,"117 Station Road, London",51.6324703,0.0073986,Waltham Forest
+443,"470 Larkshall Road, London",51.608998,-0.001241,Waltham Forest
+444,"Markfield Road, London",51.5816568,-0.0612767,Waltham Forest
+445,"1, 7 Garman Road, London",51.6021997,-0.0514052,Waltham Forest
+446,"8 Chingford Road, London",51.5905938,-0.0170676,Waltham Forest
+447,"252 Lavender Hill, London",51.4640078,-0.1664803,Wandsworth
+448,"735 Fulham Road, London",51.47686,-0.2024469,Wandsworth
+449,"64 Northcote Road, London",51.458499,-0.1662769,Wandsworth
+450,"2-4 Exhibition Road, London",51.4947729,-0.173204,Wandsworth
+451,"Unit 79, Sherwood Court, Chatfield Road, London",51.46581080000001,-0.1822525,Wandsworth
