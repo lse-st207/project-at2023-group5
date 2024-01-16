@@ -5,6 +5,20 @@
 /* Worksheet: Cafe visualization */
 /* Worksheet Description: Description for Sheet 1 */
 
+/*Query 3*/
+SELECT 
+    CAFE.Cafe_Name,
+    ROUND(AVG(RATING.Rating),1) AS Average_Rating, COUNT(CAFE.Cafe_Name) AS Number_Cafe
+FROM 
+    CAFE
+JOIN 
+    RATING ON CAFE.Place_Id = RATING.Place_Id
+GROUP BY 
+    CAFE.Cafe_Name
+HAVING COUNT (CAFE.Cafe_Name) > 1
+ORDER BY COUNT (CAFE.Cafe_Name) DESC
+LIMIT 5
+
 
 /* SQL Block Start */
 SELECT * FROM cafe_kinetica;
